@@ -1,0 +1,891 @@
+disease,year,age,sex,state_region,exposure_setting,fever,myalgia,fatigue,headache,nausea,dyspnea,cough,hypotension,pulmonary_edema,diabetes,immunocompromised,severity_score,icu_admission,mechanical_ventilation,days_to_hospitalisation,outcome,age_group,symptom_burden,comorbidity_score,cardiopulmonary_stress,high_risk
+Hantavirus,2015,43,Female,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.1,0,0,6,1,Middle Age,7,0,1,0
+Hantavirus,2007,35,Female,Colorado,Camping/Hiking,1,1,1,0,1,1,1,0,0,0,0,1.0,0,0,5,1,Young Adult,6,0,1,0
+Hantavirus,2010,46,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.8,1,1,7,1,Middle Age,7,0,3,0
+Hantavirus,2012,58,Female,Texas,Rural/Farming,1,1,1,0,0,1,1,1,1,0,0,8.0,1,0,1,1,Middle Age,5,0,3,1
+Hantavirus,1997,33,Male,California,Rodent Infested Home,1,1,1,1,0,1,1,0,1,1,0,6.0,1,0,1,0,Young Adult,6,1,2,1
+Hantavirus,2009,33,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,0,1,1,0,5.3,0,0,5,1,Young Adult,7,1,2,1
+Hantavirus,2014,59,Male,Other,Rural/Farming,1,0,1,1,1,1,1,0,1,0,0,5.7,1,0,4,1,Middle Age,6,0,2,1
+Hantavirus,2001,47,Female,Washington,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,5.4,0,0,4,0,Middle Age,7,1,2,1
+Hantavirus,2015,30,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,4.6,0,0,8,0,Young Adult,6,0,2,0
+Hantavirus,2010,44,Female,Washington,Camping/Hiking,1,1,0,1,1,0,1,1,1,0,0,6.7,1,1,6,1,Middle Age,5,0,2,0
+Hantavirus,2022,30,Female,Texas,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.6,0,0,5,1,Young Adult,7,0,1,0
+Hantavirus,1995,30,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,5.0,0,0,5,0,Young Adult,6,0,2,0
+Hantavirus,2004,40,Female,California,Rural/Farming,1,0,1,1,1,1,0,0,0,0,0,2.5,0,0,7,1,Young Adult,5,0,1,0
+Hantavirus,2011,10,Male,California,Rodent Infested Home,1,1,0,0,1,1,0,1,1,0,0,6.0,1,1,3,1,Paediatric,4,0,3,0
+Hantavirus,2005,12,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,0,1,0,1,0,0,1.7,0,0,1,1,Paediatric,6,0,1,0
+Hantavirus,2014,29,Female,Other,Rural/Farming,1,1,0,1,1,0,0,0,1,0,0,3.0,0,0,2,0,Young Adult,4,0,1,0
+Hantavirus,2015,22,Male,Oregon,Camping/Hiking,1,1,0,1,1,1,0,1,1,0,0,3.3,0,0,2,0,Young Adult,5,0,3,0
+Hantavirus,1998,41,Female,Montana,Rural/Farming,0,1,1,0,1,0,1,1,0,0,0,2.6,0,0,1,0,Middle Age,4,0,1,0
+Hantavirus,2009,24,Female,California,Occupational,1,1,1,0,1,1,1,0,1,0,0,4.6,0,0,5,1,Young Adult,6,0,2,0
+Hantavirus,2009,17,Male,Arizona,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,7.1,1,0,2,1,Paediatric,6,0,3,0
+Hantavirus,2006,57,Male,Montana,Occupational,1,1,1,1,0,1,1,1,0,1,0,5.9,1,1,3,1,Middle Age,6,1,2,1
+Hantavirus,2021,33,Male,Texas,Rodent Infested Home,1,1,1,1,1,0,1,1,1,0,1,7.0,1,1,2,0,Young Adult,6,1,2,1
+Hantavirus,2017,37,Male,New Mexico,Camping/Hiking,1,1,0,0,1,1,1,0,0,0,0,1.0,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2013,17,Female,California,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.5,1,1,9,1,Paediatric,7,0,3,0
+Hantavirus,2014,29,Male,Oregon,Camping/Hiking,1,1,1,1,0,0,1,1,1,0,0,3.7,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2008,38,Male,California,Camping/Hiking,1,1,1,1,0,1,1,0,1,0,0,3.9,0,0,11,1,Young Adult,6,0,2,0
+Hantavirus,2021,20,Male,New Mexico,Rural/Farming,1,0,1,1,1,1,1,1,1,1,0,7.4,1,1,4,1,Young Adult,6,1,3,1
+Hantavirus,2013,42,Male,Utah,Rodent Infested Home,1,1,1,1,1,1,0,0,0,0,0,4.0,0,0,2,0,Middle Age,6,0,1,0
+Hantavirus,2014,28,Female,Colorado,Occupational,1,1,1,1,1,1,0,0,1,0,0,5.2,0,0,2,1,Young Adult,6,0,2,0
+Hantavirus,2018,32,Male,Colorado,Camping/Hiking,1,1,1,1,1,0,1,1,0,0,0,3.0,0,0,1,1,Young Adult,6,0,1,0
+Hantavirus,2004,28,Female,New Mexico,Rodent Infested Home,1,1,1,0,0,1,0,1,1,0,0,6.8,1,0,1,1,Young Adult,4,0,3,0
+Hantavirus,2016,62,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.1,0,0,1,0,Elderly,7,0,2,1
+Hantavirus,2002,36,Female,Utah,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,4.5,0,0,3,0,Young Adult,7,0,2,0
+Hantavirus,2006,22,Male,California,Rural/Farming,1,1,1,1,1,0,1,1,0,0,0,3.1,0,0,2,0,Young Adult,6,0,1,0
+Hantavirus,2006,48,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,4.1,0,0,5,0,Middle Age,7,0,2,0
+Hantavirus,2023,19,Female,Other,Occupational,1,1,1,1,0,1,1,1,1,0,0,7.2,0,0,2,0,Young Adult,6,0,3,0
+Hantavirus,2018,39,Male,Other,Rodent Infested Home,1,1,0,1,0,1,0,1,1,0,0,6.8,1,1,2,1,Young Adult,4,0,3,0
+Hantavirus,2013,9,Female,Other,Rural/Farming,1,0,1,1,0,0,1,1,0,0,0,3.1,0,0,13,0,Paediatric,4,0,1,0
+Hantavirus,2014,18,Male,Colorado,Rural/Farming,1,1,0,1,0,1,1,1,0,0,0,5.0,0,0,1,0,Paediatric,5,0,2,0
+Hantavirus,2010,39,Male,California,Camping/Hiking,1,1,1,1,1,1,1,1,0,1,0,4.0,0,0,1,0,Young Adult,7,1,2,1
+Hantavirus,2022,47,Male,Other,Camping/Hiking,1,0,1,0,1,1,1,1,1,0,0,6.8,1,1,7,0,Middle Age,5,0,3,0
+Hantavirus,2009,39,Male,Utah,Rodent Infested Home,1,0,1,1,1,1,0,1,1,0,0,6.3,1,1,5,0,Young Adult,5,0,3,0
+Hantavirus,2006,35,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,5.2,0,0,2,1,Young Adult,6,0,3,0
+Hantavirus,2001,32,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,0,1,0,0,0,3.4,0,0,6,1,Young Adult,6,0,2,0
+Hantavirus,2016,16,Male,California,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,6.4,1,1,3,0,Paediatric,6,0,2,0
+Hantavirus,2014,26,Male,Other,Rural/Farming,1,1,0,1,1,1,1,0,1,0,0,5.4,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2007,30,Male,California,Rural/Farming,1,1,0,1,1,1,1,0,1,0,0,6.8,1,1,5,0,Young Adult,6,0,2,0
+Hantavirus,1994,51,Female,California,Rural/Farming,1,1,1,1,1,0,1,0,1,0,1,6.1,1,1,3,1,Middle Age,6,1,1,1
+Hantavirus,2018,41,Female,New Mexico,Camping/Hiking,0,0,1,0,1,1,1,0,1,0,0,4.5,0,0,1,1,Middle Age,4,0,2,0
+Hantavirus,1993,12,Female,Montana,Rodent Infested Home,1,1,1,1,1,1,1,0,0,1,0,2.5,0,0,5,0,Paediatric,7,1,1,1
+Hantavirus,2013,41,Female,Oregon,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,7.8,0,0,3,0,Middle Age,6,0,3,0
+Hantavirus,2022,31,Male,Arizona,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,7.4,1,1,9,1,Young Adult,6,0,3,0
+Hantavirus,2008,27,Female,Utah,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,6.2,1,1,6,0,Young Adult,6,0,3,0
+Hantavirus,2003,45,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,3.3,0,0,4,0,Middle Age,7,0,2,0
+Hantavirus,2013,51,Male,Colorado,Rural/Farming,1,1,1,1,0,0,1,1,0,0,0,6.8,1,1,2,0,Middle Age,5,0,1,1
+Hantavirus,2017,50,Male,California,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,4.9,0,0,3,0,Middle Age,7,0,2,0
+Hantavirus,2010,25,Male,Colorado,Rural/Farming,1,1,1,0,0,0,1,1,1,0,0,4.9,0,0,1,1,Young Adult,4,0,2,0
+Hantavirus,2022,32,Female,Utah,Camping/Hiking,1,1,0,1,1,1,0,0,0,0,0,2.6,0,0,4,1,Young Adult,5,0,1,0
+Hantavirus,1995,41,Male,Texas,Rural/Farming,1,1,1,1,0,1,0,1,0,0,0,4.5,0,0,9,0,Middle Age,5,0,2,0
+Hantavirus,2009,50,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,1,1,0,1,0,6.1,1,0,11,1,Middle Age,7,1,2,1
+Hantavirus,2014,30,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,6.2,1,0,7,0,Young Adult,7,0,2,0
+Hantavirus,2018,34,Female,Arizona,Rural/Farming,1,1,1,0,1,0,0,1,0,0,0,2.9,0,0,3,0,Young Adult,4,0,1,0
+Hantavirus,2001,21,Male,Other,Camping/Hiking,0,1,1,1,1,0,0,1,1,0,0,4.0,0,0,1,0,Young Adult,4,0,2,0
+Hantavirus,2016,20,Male,California,Rodent Infested Home,1,1,1,0,1,1,0,0,0,1,0,2.9,0,0,3,1,Young Adult,5,1,1,1
+Hantavirus,2010,48,Male,New Mexico,Occupational,1,1,1,0,1,1,1,1,0,0,0,4.5,0,0,6,1,Middle Age,6,0,2,0
+Hantavirus,2007,55,Female,Washington,Rural/Farming,1,1,0,1,1,1,1,0,1,0,0,7.1,1,0,6,0,Middle Age,6,0,2,1
+Hantavirus,2000,35,Male,Utah,Rodent Infested Home,1,1,1,1,1,1,0,0,0,0,1,4.9,0,0,3,0,Young Adult,6,1,1,1
+Hantavirus,2019,51,Male,Colorado,Occupational,1,1,1,1,1,1,0,1,0,0,0,5.1,1,1,2,1,Middle Age,6,0,2,1
+Hantavirus,2001,42,Male,Other,Occupational,0,1,1,1,1,1,0,1,0,0,0,3.5,0,0,4,1,Middle Age,5,0,2,0
+Hantavirus,2005,27,Male,Other,Camping/Hiking,1,1,0,1,1,1,1,1,1,1,0,6.6,1,1,3,0,Young Adult,6,1,3,1
+Hantavirus,2004,42,Male,Colorado,Camping/Hiking,1,0,1,1,1,1,0,1,1,0,0,7.3,1,0,3,1,Middle Age,5,0,3,0
+Hantavirus,2019,58,Male,Other,Camping/Hiking,1,1,1,0,1,1,1,0,0,0,0,3.6,0,0,3,0,Middle Age,6,0,1,1
+Hantavirus,2012,36,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,1,0,0,1,5.4,0,0,8,1,Young Adult,6,1,2,1
+Hantavirus,2016,58,Male,Colorado,Camping/Hiking,1,1,1,1,1,0,0,1,1,0,0,5.8,1,1,1,0,Middle Age,5,0,2,1
+Hantavirus,2003,5,Male,Colorado,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,5.6,1,1,2,0,Paediatric,6,0,3,0
+Hantavirus,2011,48,Female,Other,Camping/Hiking,1,1,1,1,1,1,1,0,0,1,0,3.9,0,0,2,0,Middle Age,7,1,1,1
+Hantavirus,2010,38,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,4.8,0,0,4,1,Young Adult,6,0,3,0
+Hantavirus,2017,32,Male,New Mexico,Rodent Infested Home,1,0,1,1,1,1,1,1,1,1,0,6.9,1,1,3,0,Young Adult,6,1,3,1
+Hantavirus,2020,38,Male,California,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,5.0,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,1993,9,Male,Texas,Rodent Infested Home,1,1,1,1,0,0,1,1,1,0,1,7.2,1,0,1,0,Paediatric,5,1,2,1
+Hantavirus,2013,33,Female,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,1.7,0,0,3,0,Young Adult,7,0,1,0
+Hantavirus,1995,41,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,4.9,1,0,5,0,Middle Age,7,0,2,0
+Hantavirus,2010,57,Female,Oregon,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.9,0,0,4,1,Middle Age,7,0,3,1
+Hantavirus,2004,29,Male,California,Rural/Farming,1,1,0,1,0,1,0,0,1,0,0,6.2,1,1,1,0,Young Adult,4,0,2,0
+Hantavirus,2005,25,Male,Other,Occupational,1,1,0,1,1,1,1,1,0,0,0,5.5,0,0,3,1,Young Adult,6,0,2,0
+Hantavirus,2006,29,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.8,1,1,3,1,Young Adult,7,0,3,0
+Hantavirus,2011,49,Male,Other,Rodent Infested Home,1,1,0,1,0,1,0,1,1,0,0,7.0,1,1,2,0,Middle Age,4,0,3,0
+Hantavirus,2006,41,Male,Montana,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,0,6.6,1,1,4,1,Middle Age,6,0,3,0
+Hantavirus,2014,29,Female,Montana,Camping/Hiking,1,1,1,1,1,1,0,0,1,0,1,5.8,1,0,2,0,Young Adult,6,1,2,1
+Hantavirus,2007,44,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.9,1,1,5,1,Middle Age,7,0,3,0
+Hantavirus,1996,38,Female,Other,Camping/Hiking,1,1,1,1,0,0,1,1,0,0,0,3.7,0,0,11,0,Young Adult,5,0,1,0
+Hantavirus,2016,50,Male,Arizona,Rural/Farming,1,1,1,1,0,1,1,0,1,0,0,5.9,1,1,6,1,Middle Age,6,0,2,0
+Hantavirus,2004,27,Female,New Mexico,Rural/Farming,1,1,1,1,1,0,0,0,1,0,1,5.1,0,0,1,0,Young Adult,5,1,1,1
+Hantavirus,2007,32,Female,New Mexico,Rural/Farming,1,1,1,0,0,1,1,0,0,0,0,3.7,0,0,5,0,Young Adult,5,0,1,0
+Hantavirus,2013,31,Female,Texas,Rural/Farming,1,1,1,1,0,1,1,0,0,0,0,4.3,0,0,6,0,Young Adult,6,0,1,0
+Hantavirus,2006,16,Female,California,Occupational,1,1,0,1,1,1,1,1,1,0,0,6.6,1,1,4,1,Paediatric,6,0,3,0
+Hantavirus,1996,41,Female,Washington,Occupational,1,1,1,1,1,1,1,1,0,0,0,5.8,1,0,5,0,Middle Age,7,0,2,0
+Hantavirus,2006,40,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.8,1,0,3,0,Young Adult,7,0,3,0
+Hantavirus,2021,37,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,5.8,1,0,1,1,Young Adult,7,0,2,0
+Hantavirus,2012,33,Male,Washington,Rural/Farming,1,1,0,0,1,0,1,0,0,1,0,3.1,0,0,3,0,Young Adult,4,1,0,1
+Hantavirus,2012,17,Female,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,1,8.7,1,1,1,1,Paediatric,7,1,3,1
+Hantavirus,2011,31,Male,Other,Rodent Infested Home,1,1,1,1,0,0,1,1,0,0,0,3.0,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2002,32,Female,Oregon,Occupational,1,1,1,1,0,1,1,1,1,0,0,6.3,1,1,2,1,Young Adult,6,0,3,0
+Hantavirus,2007,25,Male,Texas,Camping/Hiking,1,1,1,0,1,1,0,1,1,0,0,5.4,1,1,1,0,Young Adult,5,0,3,0
+Hantavirus,2015,34,Male,Washington,Rodent Infested Home,0,1,1,1,1,1,0,1,0,0,0,4.5,0,0,8,1,Young Adult,5,0,2,0
+Hantavirus,1998,42,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,6.3,1,0,3,0,Middle Age,6,0,2,0
+Hantavirus,2004,63,Male,California,Occupational,1,1,1,1,1,1,1,0,0,1,0,4.1,0,0,2,1,Elderly,7,1,1,1
+Hantavirus,2004,39,Male,Oregon,Rural/Farming,1,1,1,1,1,0,1,1,0,0,0,4.0,1,1,1,0,Young Adult,6,0,1,0
+Hantavirus,2007,40,Male,California,Camping/Hiking,1,1,1,1,0,1,0,0,1,0,0,6.0,1,1,6,1,Young Adult,5,0,2,0
+Hantavirus,2023,35,Male,Arizona,Rodent Infested Home,1,1,1,1,0,1,0,0,0,0,0,2.3,0,0,4,1,Young Adult,5,0,1,0
+Hantavirus,1996,10,Male,California,Rodent Infested Home,1,1,1,1,1,0,1,0,0,0,0,1.6,0,0,12,0,Paediatric,6,0,0,0
+Hantavirus,2009,36,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,2.2,0,0,2,0,Young Adult,7,0,2,0
+Hantavirus,2001,37,Male,Arizona,Occupational,1,1,1,0,1,1,1,0,0,0,0,1.4,0,0,8,0,Young Adult,6,0,1,0
+Hantavirus,2022,71,Female,New Mexico,Rural/Farming,1,1,1,1,0,1,1,0,0,0,0,2.7,0,0,3,0,Elderly,6,0,1,1
+Hantavirus,1999,34,Male,Washington,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,3.7,1,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2007,41,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.6,1,1,2,0,Middle Age,7,0,3,0
+Hantavirus,2014,36,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,1,8.6,0,0,3,1,Young Adult,7,1,3,1
+Hantavirus,2013,20,Male,Colorado,Camping/Hiking,1,1,1,0,1,1,0,0,1,0,1,6.2,1,1,2,1,Young Adult,5,1,2,1
+Hantavirus,2007,52,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,1,1,0,1,1,7.9,1,0,1,1,Middle Age,6,2,2,1
+Hantavirus,2006,47,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,4.0,0,0,1,0,Middle Age,7,0,2,0
+Hantavirus,2007,48,Male,California,Rural/Farming,1,1,1,1,1,0,1,0,1,0,0,2.7,0,0,5,0,Middle Age,6,0,1,0
+Hantavirus,2004,24,Male,Washington,Camping/Hiking,1,1,1,1,0,0,1,1,1,0,0,5.6,1,1,1,0,Young Adult,5,0,2,0
+Hantavirus,2002,56,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,1,1,1,1,0,8.0,1,0,2,1,Middle Age,7,1,3,1
+Hantavirus,2008,17,Female,Montana,Rodent Infested Home,1,1,1,1,0,1,0,0,0,0,0,1.0,0,0,1,0,Paediatric,5,0,1,0
+Hantavirus,2004,45,Female,Arizona,Rural/Farming,1,1,1,0,1,1,1,1,0,0,1,7.0,1,1,4,0,Middle Age,6,1,2,1
+Hantavirus,2004,67,Male,Oregon,Rural/Farming,1,1,0,0,1,0,0,1,1,0,0,7.9,1,0,14,1,Elderly,3,0,2,1
+Hantavirus,2012,23,Male,California,Rural/Farming,1,1,1,1,1,1,0,0,1,0,0,6.2,1,0,5,1,Young Adult,6,0,2,0
+Hantavirus,2022,29,Male,Other,Rural/Farming,1,1,1,1,1,1,0,0,1,0,0,5.1,0,0,1,0,Young Adult,6,0,2,0
+Hantavirus,2011,38,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,1,0,1,1,1,8.0,1,0,4,0,Young Adult,7,2,2,1
+Hantavirus,1997,29,Female,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,1,1,0,7.2,1,1,2,0,Young Adult,7,1,2,1
+Hantavirus,1997,15,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.8,1,1,4,1,Paediatric,7,0,3,0
+Hantavirus,2022,37,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,8.2,1,1,9,0,Young Adult,7,0,3,0
+Hantavirus,2005,22,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,4.9,0,0,3,1,Young Adult,7,0,2,0
+Hantavirus,1998,43,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,8.2,1,1,4,0,Middle Age,7,0,3,0
+Hantavirus,2010,24,Male,New Mexico,Occupational,1,1,1,0,1,1,1,0,0,1,0,3.4,0,0,3,0,Young Adult,6,1,1,1
+Hantavirus,2011,58,Male,Other,Rural/Farming,1,1,1,0,1,1,1,0,0,0,0,4.5,0,0,6,0,Middle Age,6,0,1,1
+Hantavirus,2012,26,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.0,0,0,5,0,Young Adult,7,0,2,0
+Hantavirus,2004,32,Male,Oregon,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,5.5,0,0,2,1,Young Adult,6,0,3,0
+Hantavirus,1993,48,Male,Colorado,Occupational,1,1,1,1,0,1,1,0,1,0,1,8.1,1,1,5,1,Middle Age,6,1,2,1
+Hantavirus,2022,19,Male,Montana,Camping/Hiking,1,1,1,1,0,1,1,0,0,0,0,1.1,0,0,4,0,Young Adult,6,0,1,0
+Hantavirus,2003,40,Male,Washington,Rural/Farming,1,0,1,1,1,1,0,0,0,0,0,4.0,0,0,2,1,Young Adult,5,0,1,0
+Hantavirus,2013,55,Male,California,Rural/Farming,1,1,1,0,1,0,0,1,1,0,0,6.1,1,1,2,1,Middle Age,4,0,2,1
+Hantavirus,2013,14,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,5.1,0,0,3,1,Paediatric,7,0,2,0
+Hantavirus,2011,39,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,0,0,1,0,4.8,0,0,4,0,Young Adult,7,1,1,1
+Hantavirus,2005,40,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,0,0,0,0,3.1,0,0,3,0,Young Adult,6,0,1,0
+Hantavirus,2004,47,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.9,1,1,4,0,Middle Age,7,0,3,0
+Hantavirus,2010,19,Female,Montana,Rural/Farming,1,1,1,1,0,1,0,1,0,0,0,4.5,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2019,18,Male,Other,Rodent Infested Home,1,1,1,1,0,0,1,0,1,0,0,1.0,0,0,1,1,Paediatric,5,0,1,0
+Hantavirus,2022,44,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,4.9,0,0,1,0,Middle Age,7,0,2,0
+Hantavirus,1998,41,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.1,0,0,5,1,Middle Age,7,0,3,0
+Hantavirus,2001,40,Male,Utah,Camping/Hiking,1,1,0,1,1,0,0,1,1,0,0,5.9,1,1,1,1,Young Adult,4,0,2,0
+Hantavirus,2021,41,Male,Montana,Rural/Farming,1,1,1,1,0,1,0,1,0,0,0,3.6,0,0,4,1,Middle Age,5,0,2,0
+Hantavirus,2014,27,Male,Colorado,Occupational,1,1,1,0,1,1,1,1,0,0,0,3.1,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2019,40,Female,Other,Camping/Hiking,1,1,1,0,1,1,0,1,0,1,0,7.3,1,1,2,0,Young Adult,5,1,2,1
+Hantavirus,2002,41,Male,Montana,Rural/Farming,1,1,1,1,0,1,1,0,1,0,0,6.3,1,1,2,0,Middle Age,6,0,2,0
+Hantavirus,2010,26,Male,Texas,Rodent Infested Home,1,1,1,1,0,1,1,0,0,0,1,3.5,0,0,14,0,Young Adult,6,1,1,1
+Hantavirus,2013,63,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,0,1,0,1,0,6.6,1,1,2,1,Elderly,5,1,2,1
+Hantavirus,2013,43,Female,California,Occupational,1,1,1,1,1,0,0,0,1,0,0,3.5,0,0,1,0,Middle Age,5,0,1,0
+Hantavirus,2007,20,Male,California,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,4.7,0,0,11,0,Young Adult,6,0,2,0
+Hantavirus,1993,46,Female,Other,Camping/Hiking,1,1,1,1,1,1,0,1,0,0,0,4.2,1,0,1,0,Middle Age,6,0,2,0
+Hantavirus,2010,23,Male,Texas,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,7.7,1,0,1,0,Young Adult,6,0,3,0
+Hantavirus,2003,48,Female,Arizona,Camping/Hiking,1,1,1,1,0,1,1,1,1,0,0,7.2,1,0,6,1,Middle Age,6,0,3,0
+Hantavirus,2008,53,Male,Other,Rodent Infested Home,1,1,0,1,0,0,1,0,0,0,0,1.2,0,0,4,1,Middle Age,4,0,0,1
+Hantavirus,2022,25,Female,New Mexico,Rodent Infested Home,1,1,1,0,1,1,1,1,0,0,0,4.3,0,0,2,1,Young Adult,6,0,2,0
+Hantavirus,2007,50,Male,Arizona,Rural/Farming,1,1,1,1,0,1,0,1,1,0,0,6.9,1,1,1,1,Middle Age,5,0,3,0
+Hantavirus,2018,42,Female,New Mexico,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,3.1,0,0,1,0,Middle Age,7,0,1,0
+Hantavirus,2002,48,Male,Washington,Rodent Infested Home,1,1,1,0,1,0,1,1,1,0,0,5.4,0,0,9,0,Middle Age,5,0,2,0
+Hantavirus,2012,63,Male,Other,Occupational,1,1,1,0,0,1,1,0,0,0,1,5.1,0,0,5,1,Elderly,5,1,1,1
+Hantavirus,2023,33,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,8.2,1,0,8,0,Young Adult,7,0,3,0
+Hantavirus,1998,26,Female,Other,Camping/Hiking,1,0,1,1,0,0,1,1,0,0,0,2.1,0,0,7,0,Young Adult,4,0,1,0
+Hantavirus,1993,24,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,0,1,1,0,5.6,1,1,4,0,Young Adult,7,1,2,1
+Hantavirus,2007,25,Male,Other,Rodent Infested Home,1,1,1,1,1,1,0,1,0,0,0,4.7,0,0,2,1,Young Adult,6,0,2,0
+Hantavirus,1998,35,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,1,1,0,1,7.8,1,1,1,0,Young Adult,7,1,3,1
+Hantavirus,2015,41,Male,Oregon,Rural/Farming,1,1,1,1,0,1,1,0,0,0,0,3.2,0,0,7,0,Middle Age,6,0,1,0
+Hantavirus,2020,40,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,3.3,0,0,2,0,Young Adult,7,0,1,0
+Hantavirus,2007,48,Male,Other,Rural/Farming,1,1,1,1,1,1,0,1,1,1,0,9.5,1,0,1,0,Middle Age,6,1,3,1
+Hantavirus,2004,37,Female,Washington,Camping/Hiking,1,0,1,1,0,1,0,1,1,0,0,6.5,1,1,2,0,Young Adult,4,0,3,0
+Hantavirus,2007,57,Male,Colorado,Camping/Hiking,1,1,1,1,1,0,1,1,1,0,0,5.3,0,0,7,0,Middle Age,6,0,2,1
+Hantavirus,2014,33,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,4.2,1,1,1,1,Young Adult,7,0,2,0
+Hantavirus,1993,75,Female,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,1,0,8.3,1,1,2,1,Elderly,7,1,3,1
+Hantavirus,2010,45,Male,Other,Camping/Hiking,1,1,1,1,0,1,0,1,0,1,0,6.4,1,1,3,0,Middle Age,5,1,2,1
+Hantavirus,2011,24,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,5.6,1,0,4,1,Young Adult,6,0,3,0
+Hantavirus,2012,22,Male,Washington,Camping/Hiking,1,1,1,1,1,1,1,1,1,1,0,10.0,1,1,1,0,Young Adult,7,1,3,1
+Hantavirus,2003,43,Male,Texas,Rodent Infested Home,1,1,1,1,0,1,1,0,0,0,0,4.1,0,0,3,0,Middle Age,6,0,1,0
+Hantavirus,2014,33,Male,New Mexico,Rodent Infested Home,1,1,1,0,1,1,1,0,1,0,0,5.0,0,0,6,0,Young Adult,6,0,2,0
+Hantavirus,1998,46,Female,Colorado,Rural/Farming,1,1,0,1,1,1,1,1,1,0,0,8.2,1,1,12,0,Middle Age,6,0,3,0
+Hantavirus,2002,43,Female,New Mexico,Rural/Farming,1,0,1,1,1,0,1,0,0,1,0,1.0,0,0,1,1,Middle Age,5,1,0,1
+Hantavirus,2019,35,Male,California,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,9.6,1,1,1,1,Young Adult,6,0,3,0
+Hantavirus,2014,25,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,0,0,1,4.9,0,0,1,1,Young Adult,7,1,2,1
+Hantavirus,1993,15,Male,Texas,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,4.3,0,0,5,0,Paediatric,6,0,2,0
+Hantavirus,2003,30,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,1,3.7,0,0,1,0,Young Adult,7,1,2,1
+Hantavirus,2002,48,Male,Colorado,Rural/Farming,1,1,1,0,1,1,0,1,0,1,0,6.4,1,1,3,0,Middle Age,5,1,2,1
+Hantavirus,2004,39,Male,Washington,Rural/Farming,0,1,1,1,1,0,1,1,0,0,0,2.1,0,0,2,0,Young Adult,5,0,1,0
+Hantavirus,2003,19,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,0,1,1,0,5.7,1,1,13,1,Young Adult,6,1,2,1
+Hantavirus,1996,39,Female,Other,Rodent Infested Home,1,1,1,0,1,1,1,0,1,1,1,6.8,1,0,2,0,Young Adult,6,2,2,1
+Hantavirus,2008,42,Female,Other,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,4.7,0,0,2,0,Middle Age,6,0,2,0
+Hantavirus,2014,24,Female,Montana,Camping/Hiking,1,1,1,0,1,0,0,1,0,0,0,1.9,0,0,5,0,Young Adult,4,0,1,0
+Hantavirus,2011,39,Male,Texas,Rural/Farming,1,1,0,0,1,1,1,0,0,0,0,2.9,0,0,4,0,Young Adult,5,0,1,0
+Hantavirus,2013,37,Male,Other,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,3.8,0,0,1,0,Young Adult,6,0,2,0
+Hantavirus,1997,20,Male,Colorado,Rodent Infested Home,1,1,1,1,1,0,1,1,1,0,0,4.4,0,0,8,1,Young Adult,6,0,2,0
+Hantavirus,2022,42,Female,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,5.4,0,0,1,0,Middle Age,7,0,2,0
+Hantavirus,2018,44,Male,Colorado,Rural/Farming,1,1,0,1,0,1,0,1,0,0,0,7.4,1,0,3,0,Middle Age,4,0,2,0
+Hantavirus,2016,52,Female,Utah,Camping/Hiking,1,1,1,1,0,1,1,1,1,1,0,9.0,1,1,2,1,Middle Age,6,1,3,1
+Hantavirus,2017,51,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,4.1,0,0,3,0,Middle Age,6,0,2,1
+Hantavirus,2021,17,Male,Texas,Rodent Infested Home,1,1,1,0,1,1,0,0,1,0,0,4.1,0,0,1,0,Paediatric,5,0,2,0
+Hantavirus,2009,23,Female,Other,Rodent Infested Home,1,1,1,0,0,0,1,1,1,1,0,6.2,1,1,3,0,Young Adult,4,1,2,1
+Hantavirus,2002,44,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,5.0,0,0,3,1,Middle Age,7,0,2,0
+Hantavirus,2011,44,Female,California,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,8.2,1,1,1,1,Middle Age,6,0,3,0
+Hantavirus,2014,44,Female,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,5.0,0,0,2,0,Middle Age,6,0,2,0
+Hantavirus,2014,85,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,7.5,1,0,1,1,Elderly,7,0,2,1
+Hantavirus,2009,44,Male,Texas,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,7.0,1,1,10,0,Middle Age,7,0,3,0
+Hantavirus,1996,52,Male,New Mexico,Rural/Farming,1,1,1,0,1,1,0,1,0,0,0,6.4,1,0,4,1,Middle Age,5,0,2,1
+Hantavirus,2006,50,Female,New Mexico,Rodent Infested Home,1,1,1,1,0,1,1,0,1,0,0,5.3,0,0,1,1,Middle Age,6,0,2,0
+Hantavirus,2021,46,Male,Other,Rural/Farming,1,1,1,1,0,0,1,1,0,0,0,2.4,0,0,2,0,Middle Age,5,0,1,0
+Hantavirus,2010,32,Male,Montana,Rural/Farming,1,1,1,1,1,0,1,0,1,0,1,6.8,1,1,2,1,Young Adult,6,1,1,1
+Hantavirus,2009,47,Male,Oregon,Occupational,1,1,1,1,1,1,1,0,1,0,0,3.6,0,0,2,1,Middle Age,7,0,2,0
+Hantavirus,2004,26,Female,Other,Rural/Farming,1,0,1,0,1,0,1,1,1,0,0,4.5,0,0,4,1,Young Adult,4,0,2,0
+Hantavirus,2006,33,Male,Texas,Occupational,1,0,1,1,1,1,0,0,0,0,0,1.9,0,0,9,1,Young Adult,5,0,1,0
+Hantavirus,2020,30,Male,California,Occupational,1,1,1,1,0,1,1,1,0,0,0,6.9,1,1,1,1,Young Adult,6,0,2,0
+Hantavirus,2012,38,Female,Arizona,Rodent Infested Home,1,1,1,0,1,1,1,0,1,0,0,6.9,1,1,2,0,Young Adult,6,0,2,0
+Hantavirus,2016,69,Male,Colorado,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,9.6,1,1,12,1,Elderly,6,0,3,1
+Hantavirus,2008,10,Male,Arizona,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,3.5,0,0,2,0,Paediatric,6,0,2,0
+Hantavirus,2011,46,Female,Utah,Rodent Infested Home,1,1,0,1,1,0,1,0,0,0,0,3.8,0,0,4,0,Middle Age,5,0,0,0
+Hantavirus,2003,14,Male,Texas,Rural/Farming,1,1,1,0,0,1,1,0,0,0,0,2.3,0,0,1,1,Paediatric,5,0,1,0
+Hantavirus,2013,30,Female,Other,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.9,1,1,8,0,Young Adult,7,0,3,0
+Hantavirus,2007,52,Male,California,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,1,8.9,1,1,1,1,Middle Age,6,1,3,1
+Hantavirus,2008,37,Male,Texas,Camping/Hiking,1,1,1,1,0,1,1,0,1,0,0,5.1,0,0,4,0,Young Adult,6,0,2,0
+Hantavirus,2012,21,Female,Montana,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,6.4,1,0,1,0,Young Adult,7,0,3,0
+Hantavirus,2021,26,Male,Texas,Rural/Farming,1,1,0,1,1,1,1,0,1,0,1,5.8,1,0,1,0,Young Adult,6,1,2,1
+Hantavirus,1996,46,Male,Washington,Camping/Hiking,1,0,1,1,1,1,1,0,0,0,0,3.5,0,0,4,0,Middle Age,6,0,1,0
+Hantavirus,2017,26,Male,Colorado,Rodent Infested Home,1,1,1,1,0,1,1,1,0,1,0,5.6,1,0,5,0,Young Adult,6,1,2,1
+Hantavirus,2005,40,Male,California,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,3,1,Young Adult,7,0,2,0
+Hantavirus,2008,37,Male,New Mexico,Occupational,1,1,1,1,1,1,1,1,1,0,0,8.6,1,1,1,1,Young Adult,7,0,3,0
+Hantavirus,1994,27,Male,Arizona,Rodent Infested Home,1,1,0,0,1,1,1,1,1,0,0,3.8,0,0,14,0,Young Adult,5,0,3,0
+Hantavirus,2005,67,Female,California,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,8.5,1,1,5,1,Elderly,7,0,3,1
+Hantavirus,2009,45,Male,Montana,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,8.1,1,1,3,0,Middle Age,7,0,3,0
+Hantavirus,1996,8,Male,Other,Rodent Infested Home,1,1,1,1,0,1,0,1,1,0,0,7.4,1,0,7,1,Paediatric,5,0,3,0
+Hantavirus,2009,39,Male,Texas,Rural/Farming,1,1,0,1,1,0,0,1,0,0,0,3.1,0,0,2,0,Young Adult,4,0,1,0
+Hantavirus,2021,27,Female,Washington,Rodent Infested Home,1,1,1,1,0,0,1,1,0,1,0,4.0,0,0,11,1,Young Adult,5,1,1,1
+Hantavirus,1998,48,Male,California,Rural/Farming,1,1,0,1,1,1,0,1,1,1,0,9.4,1,1,5,1,Middle Age,5,1,3,1
+Hantavirus,2015,25,Female,Montana,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,8.2,1,1,6,1,Young Adult,7,0,3,0
+Hantavirus,2007,35,Male,New Mexico,Occupational,1,1,1,1,1,0,0,0,0,1,0,1.7,0,0,2,0,Young Adult,5,1,0,1
+Hantavirus,2012,44,Male,Colorado,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,7.6,1,0,1,0,Middle Age,6,0,3,0
+Hantavirus,2004,49,Male,Arizona,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,6.6,1,1,3,0,Middle Age,6,0,2,0
+Hantavirus,2001,20,Male,California,Rodent Infested Home,1,1,1,0,1,1,1,1,0,0,1,3.2,1,1,2,0,Young Adult,6,1,2,1
+Hantavirus,2001,32,Male,New Mexico,Rural/Farming,1,0,1,1,1,1,1,1,1,0,0,6.3,1,1,12,1,Young Adult,6,0,3,0
+Hantavirus,1996,30,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,0,1,1,0,0,0,4.4,0,0,1,1,Young Adult,6,0,1,0
+Hantavirus,2002,27,Female,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.9,1,1,8,0,Young Adult,7,0,3,0
+Hantavirus,2012,61,Male,Other,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,3.9,0,0,1,1,Elderly,7,0,1,1
+Hantavirus,2019,42,Male,Arizona,Occupational,1,1,0,1,1,1,1,1,1,0,0,6.8,1,1,1,0,Middle Age,6,0,3,0
+Hantavirus,2017,19,Male,California,Rodent Infested Home,1,1,1,1,1,0,0,0,0,0,0,1.0,0,0,1,0,Young Adult,5,0,0,0
+Hantavirus,2013,49,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,6.9,1,1,2,1,Middle Age,7,0,3,0
+Hantavirus,1999,66,Male,Texas,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,8.0,1,1,2,1,Elderly,6,0,2,1
+Hantavirus,2004,51,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,0,1,1,0,5.9,1,1,1,0,Middle Age,7,1,2,1
+Hantavirus,2005,15,Male,Colorado,Camping/Hiking,1,1,1,1,0,1,0,0,0,0,0,2.1,0,0,4,0,Paediatric,5,0,1,0
+Hantavirus,2003,30,Female,California,Camping/Hiking,1,1,1,1,1,0,1,1,0,0,0,2.1,0,0,2,0,Young Adult,6,0,1,0
+Hantavirus,2009,54,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,0,0,1,0,5.0,0,0,1,1,Middle Age,6,1,1,1
+Hantavirus,2009,27,Male,New Mexico,Camping/Hiking,1,1,1,0,0,0,1,0,0,0,0,1.0,0,0,1,0,Young Adult,4,0,0,0
+Hantavirus,2006,43,Female,Colorado,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.2,0,0,2,1,Middle Age,7,0,3,0
+Hantavirus,2006,47,Female,New Mexico,Rural/Farming,1,0,0,1,1,1,0,0,1,0,0,3.7,0,0,7,1,Middle Age,4,0,2,0
+Hantavirus,2017,24,Male,New Mexico,Rodent Infested Home,1,0,1,0,1,1,1,1,1,0,0,5.1,0,0,3,0,Young Adult,5,0,3,0
+Hantavirus,2016,36,Female,Arizona,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,7.1,1,1,2,1,Young Adult,6,0,3,0
+Hantavirus,2005,5,Male,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,1.0,0,0,1,0,Paediatric,7,0,1,0
+Hantavirus,2020,22,Male,Texas,Rural/Farming,1,1,1,1,0,1,0,0,0,0,0,4.3,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2022,33,Male,California,Camping/Hiking,1,0,1,1,1,1,1,1,0,0,0,2.4,0,0,8,0,Young Adult,6,0,2,0
+Hantavirus,2005,19,Male,Colorado,Rodent Infested Home,1,1,0,1,1,1,0,1,1,1,0,6.8,1,1,2,0,Young Adult,5,1,3,1
+Hantavirus,2006,59,Male,Other,Rural/Farming,1,1,0,0,1,1,1,1,1,0,0,7.8,1,1,1,1,Middle Age,5,0,3,1
+Hantavirus,2009,16,Female,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,4.6,0,0,5,0,Paediatric,7,1,2,1
+Hantavirus,2021,30,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,1,0,4.3,0,0,7,1,Young Adult,6,1,2,1
+Hantavirus,2019,38,Male,Texas,Camping/Hiking,1,1,1,1,1,1,0,0,1,0,0,4.2,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,1998,57,Male,New Mexico,Rodent Infested Home,0,1,1,1,1,1,1,0,1,0,0,4.7,0,0,5,0,Middle Age,6,0,2,1
+Hantavirus,2007,16,Female,Arizona,Rural/Farming,1,1,1,1,1,1,0,0,1,0,1,5.4,1,1,2,0,Paediatric,6,1,2,1
+Hantavirus,2010,53,Male,California,Rodent Infested Home,1,1,1,0,1,1,1,0,0,1,0,6.0,1,0,5,0,Middle Age,6,1,1,1
+Hantavirus,2009,37,Male,Other,Rural/Farming,1,1,1,0,1,0,0,1,0,0,0,3.2,0,0,8,0,Young Adult,4,0,1,0
+Hantavirus,2002,23,Male,California,Camping/Hiking,1,1,1,0,1,1,1,1,1,0,0,7.9,1,1,6,0,Young Adult,6,0,3,0
+Hantavirus,2018,43,Male,Washington,Occupational,1,1,1,1,1,1,0,0,1,0,0,5.8,1,0,4,0,Middle Age,6,0,2,0
+Hantavirus,2013,39,Female,Other,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,5.8,1,1,10,1,Young Adult,6,0,2,0
+Hantavirus,2018,28,Female,New Mexico,Camping/Hiking,1,1,1,1,1,1,0,0,1,1,1,4.2,1,0,2,1,Young Adult,6,2,2,1
+Hantavirus,2018,37,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.8,1,1,4,1,Young Adult,7,0,3,0
+Hantavirus,2015,31,Female,Arizona,Rural/Farming,1,1,1,1,1,1,0,1,0,1,0,6.7,1,1,2,0,Young Adult,6,1,2,1
+Hantavirus,2008,38,Male,Arizona,Rural/Farming,1,1,1,1,1,0,1,1,0,0,0,2.6,1,1,4,1,Young Adult,6,0,1,0
+Hantavirus,2011,46,Female,Arizona,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,6.6,1,1,5,0,Middle Age,6,0,2,0
+Hantavirus,2001,59,Male,Other,Camping/Hiking,1,1,1,0,1,0,1,0,0,1,0,4.3,0,0,6,0,Middle Age,5,1,0,1
+Hantavirus,2013,19,Male,Washington,Camping/Hiking,1,1,1,1,0,0,1,0,1,0,0,2.6,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2001,66,Male,Texas,Camping/Hiking,1,1,1,1,1,1,0,1,0,1,0,6.0,1,1,1,1,Elderly,6,1,2,1
+Hantavirus,2013,9,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,1,6.5,1,1,2,0,Paediatric,7,1,3,1
+Hantavirus,2003,34,Male,Oregon,Rural/Farming,1,1,1,1,1,1,0,0,1,0,0,4.4,0,0,5,0,Young Adult,6,0,2,0
+Hantavirus,1999,45,Male,Other,Rodent Infested Home,1,1,1,1,1,0,1,1,0,0,0,2.1,0,0,4,0,Middle Age,6,0,1,0
+Hantavirus,2001,40,Male,Oregon,Occupational,1,1,1,1,0,1,0,1,1,1,0,8.6,1,1,4,1,Young Adult,5,1,3,1
+Hantavirus,1993,28,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,1,0,6.4,1,0,5,1,Young Adult,7,1,3,1
+Hantavirus,2014,34,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,1,6.8,0,0,1,1,Young Adult,7,1,2,1
+Hantavirus,2014,30,Male,New Mexico,Camping/Hiking,1,1,0,1,1,1,1,1,1,0,0,7.5,1,1,6,0,Young Adult,6,0,3,0
+Hantavirus,2009,28,Female,Colorado,Camping/Hiking,1,1,1,1,0,1,0,1,0,0,0,2.7,0,0,10,0,Young Adult,5,0,2,0
+Hantavirus,2001,48,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,9.0,1,1,2,0,Middle Age,7,0,3,0
+Hantavirus,1997,41,Male,Texas,Rural/Farming,1,1,1,1,1,0,0,0,1,0,0,4.2,0,0,6,0,Middle Age,5,0,1,0
+Hantavirus,1994,27,Male,Montana,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,6.1,1,1,3,0,Young Adult,6,0,2,0
+Hantavirus,2001,49,Female,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,0,1,0,3.2,0,0,4,0,Middle Age,7,1,1,1
+Hantavirus,2019,41,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.9,1,1,6,0,Middle Age,7,0,3,0
+Hantavirus,2003,48,Male,California,Occupational,1,1,1,1,1,1,1,1,0,0,1,7.3,0,0,4,0,Middle Age,7,1,2,1
+Hantavirus,2006,45,Female,Arizona,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.3,1,1,2,0,Middle Age,7,0,3,0
+Hantavirus,1998,25,Female,New Mexico,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,8.8,1,1,4,1,Young Adult,6,0,3,0
+Hantavirus,2003,29,Male,Arizona,Rodent Infested Home,1,1,1,0,1,1,1,0,1,1,0,5.9,1,0,1,1,Young Adult,6,1,2,1
+Hantavirus,2009,47,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,6.6,1,1,1,0,Middle Age,7,0,2,0
+Hantavirus,2011,45,Male,New Mexico,Camping/Hiking,1,1,1,1,1,0,1,1,0,1,0,4.6,0,0,8,1,Middle Age,6,1,1,1
+Hantavirus,2003,36,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,0,0,1,0,4.2,0,0,4,0,Young Adult,6,1,1,1
+Hantavirus,1996,38,Male,Arizona,Occupational,1,1,1,1,1,1,1,1,0,0,0,3.0,0,0,5,1,Young Adult,7,0,2,0
+Hantavirus,2007,54,Male,Other,Rodent Infested Home,1,1,1,0,1,1,1,0,0,0,0,3.5,0,0,4,0,Middle Age,6,0,1,1
+Hantavirus,2003,28,Female,Montana,Rodent Infested Home,1,1,1,1,0,1,0,1,0,0,0,3.6,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2003,44,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,6.5,1,0,8,1,Middle Age,7,0,3,0
+Hantavirus,2022,34,Male,Arizona,Occupational,1,1,1,1,0,1,1,0,1,0,0,6.8,1,1,2,1,Young Adult,6,0,2,0
+Hantavirus,2011,33,Male,Texas,Rural/Farming,1,1,0,1,1,1,0,0,0,0,1,3.5,0,0,2,0,Young Adult,5,1,1,1
+Hantavirus,2010,52,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,6.6,1,1,7,1,Middle Age,6,0,3,1
+Hantavirus,2007,48,Male,Montana,Rural/Farming,1,1,0,0,1,1,1,1,1,0,0,7.1,1,1,1,0,Middle Age,5,0,3,0
+Hantavirus,2007,48,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.1,1,1,2,0,Middle Age,7,0,3,0
+Hantavirus,2009,55,Male,Texas,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,9.1,1,1,2,1,Middle Age,7,0,3,1
+Hantavirus,2013,37,Male,Other,Camping/Hiking,1,1,1,1,0,0,1,1,0,0,0,2.4,0,0,1,1,Young Adult,5,0,1,0
+Hantavirus,2013,46,Female,Washington,Camping/Hiking,1,1,1,1,1,1,0,0,1,0,0,5.9,1,1,3,1,Middle Age,6,0,2,0
+Hantavirus,2001,32,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,8.3,1,1,1,0,Young Adult,7,0,3,0
+Hantavirus,2009,41,Female,Other,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.2,0,0,8,0,Middle Age,7,0,1,0
+Hantavirus,2007,35,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,3.1,0,0,1,0,Young Adult,7,0,1,0
+Hantavirus,2019,38,Female,California,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,3.6,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2011,45,Female,New Mexico,Camping/Hiking,1,1,1,1,1,0,1,0,0,0,0,3.8,0,0,2,0,Middle Age,6,0,0,0
+Hantavirus,2009,25,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,1,0,0,0,0,1.7,0,0,3,0,Young Adult,6,0,0,0
+Hantavirus,1999,66,Female,Arizona,Rural/Farming,1,1,0,1,0,1,1,0,1,0,0,5.8,1,1,1,0,Elderly,5,0,2,1
+Hantavirus,2011,22,Female,Colorado,Rural/Farming,1,1,0,1,1,1,1,1,0,1,0,4.4,1,1,5,1,Young Adult,6,1,2,1
+Hantavirus,1999,20,Male,California,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,1,7.7,1,0,2,0,Young Adult,7,1,3,1
+Hantavirus,2006,53,Male,Texas,Occupational,1,1,1,0,1,1,1,1,1,0,0,7.3,1,0,5,1,Middle Age,6,0,3,1
+Hantavirus,2000,48,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,1,1,0,0,0,6.9,1,0,8,1,Middle Age,6,0,2,0
+Hantavirus,2013,45,Female,New Mexico,Rural/Farming,1,1,1,1,1,0,0,1,0,0,0,2.1,0,0,10,0,Middle Age,5,0,1,0
+Hantavirus,2002,45,Female,Texas,Camping/Hiking,1,1,1,1,1,0,1,0,0,0,0,1.5,0,0,2,0,Middle Age,6,0,0,0
+Hantavirus,2007,36,Female,Arizona,Rodent Infested Home,1,1,1,1,1,0,1,1,0,1,0,4.1,1,0,3,0,Young Adult,6,1,1,1
+Hantavirus,2020,24,Male,Washington,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.1,0,0,4,0,Young Adult,7,0,1,0
+Hantavirus,2002,38,Female,Montana,Rural/Farming,1,0,1,0,1,1,1,0,0,1,0,3.5,0,0,2,0,Young Adult,5,1,1,1
+Hantavirus,2009,27,Male,Oregon,Rural/Farming,1,1,1,1,1,0,1,0,1,0,0,3.2,1,0,1,0,Young Adult,6,0,1,0
+Hantavirus,2007,50,Male,Washington,Rodent Infested Home,1,1,1,1,1,1,0,1,1,1,0,9.4,1,1,6,0,Middle Age,6,1,3,1
+Hantavirus,1993,34,Male,Arizona,Rural/Farming,1,1,1,1,0,0,1,0,0,0,0,1.6,1,0,1,1,Young Adult,5,0,0,0
+Hantavirus,2016,25,Male,Montana,Rural/Farming,1,1,1,0,1,1,1,0,0,0,0,2.7,0,0,7,0,Young Adult,6,0,1,0
+Hantavirus,1996,32,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,0,1,0,1,3.1,0,0,4,0,Young Adult,6,1,2,1
+Hantavirus,2008,42,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,0,0,1,0,0,5.6,1,0,4,0,Middle Age,6,0,2,0
+Hantavirus,2010,29,Male,Utah,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,5.2,0,0,1,0,Young Adult,6,0,3,0
+Hantavirus,2011,25,Male,California,Occupational,1,1,1,1,1,1,1,1,1,0,0,7.4,1,1,1,1,Young Adult,7,0,3,0
+Hantavirus,2013,40,Male,Utah,Camping/Hiking,1,1,1,1,1,0,1,1,0,0,0,4.7,0,0,6,0,Young Adult,6,0,1,0
+Hantavirus,2003,40,Male,Oregon,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,1,3.0,0,0,1,0,Young Adult,7,1,1,1
+Hantavirus,1993,29,Male,Other,Rural/Farming,1,1,0,1,1,1,1,0,1,0,0,4.6,0,0,4,1,Young Adult,6,0,2,0
+Hantavirus,2014,30,Male,Other,Camping/Hiking,1,0,1,0,1,1,1,1,0,0,1,5.0,0,0,5,0,Young Adult,5,1,2,1
+Hantavirus,2009,40,Male,Arizona,Rural/Farming,1,1,1,1,0,1,1,0,1,1,0,7.4,1,0,3,1,Young Adult,6,1,2,1
+Hantavirus,2017,16,Male,Colorado,Camping/Hiking,1,1,1,1,0,1,0,1,1,0,1,7.8,1,1,4,0,Paediatric,5,1,3,1
+Hantavirus,2017,17,Male,Texas,Rural/Farming,1,1,1,0,1,1,1,0,1,0,0,6.2,1,1,4,0,Paediatric,6,0,2,0
+Hantavirus,2018,26,Male,Arizona,Rural/Farming,1,1,1,0,1,0,1,1,0,0,0,3.2,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2008,34,Male,Texas,Rural/Farming,1,0,1,1,0,1,1,0,1,0,0,5.3,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2006,41,Male,Washington,Rural/Farming,1,1,1,1,0,1,1,1,1,1,0,8.3,1,1,1,1,Middle Age,6,1,3,1
+Hantavirus,2016,57,Female,Montana,Rural/Farming,1,1,1,1,0,0,1,1,0,0,0,4.5,0,0,1,1,Middle Age,5,0,1,1
+Hantavirus,2008,49,Male,Arizona,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,3.2,0,0,2,0,Middle Age,6,0,2,0
+Hantavirus,2002,34,Male,New Mexico,Occupational,1,1,1,0,0,1,0,0,1,1,0,6.1,1,1,8,0,Young Adult,4,1,2,1
+Hantavirus,2018,36,Male,Arizona,Camping/Hiking,1,1,1,0,1,0,0,1,1,0,1,6.7,1,1,1,1,Young Adult,4,1,2,1
+Hantavirus,2019,22,Male,New Mexico,Camping/Hiking,1,1,0,1,1,1,0,1,0,0,0,4.9,0,0,9,0,Young Adult,5,0,2,0
+Hantavirus,2008,36,Male,Other,Rodent Infested Home,1,0,1,0,0,1,1,0,0,1,0,3.4,0,0,11,1,Young Adult,4,1,1,1
+Hantavirus,1997,32,Male,Arizona,Occupational,1,1,1,1,1,0,0,0,1,0,0,2.4,0,0,2,0,Young Adult,5,0,1,0
+Hantavirus,2007,41,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,1,8.4,1,0,11,0,Middle Age,6,1,3,1
+Hantavirus,2016,25,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,1,4.9,0,0,3,1,Young Adult,7,1,2,1
+Hantavirus,2020,44,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.4,0,0,2,0,Middle Age,7,0,3,0
+Hantavirus,2002,58,Female,Montana,Rural/Farming,0,1,0,0,1,1,0,0,0,1,0,5.0,0,0,8,1,Middle Age,3,1,1,1
+Hantavirus,1996,35,Female,Arizona,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.6,1,1,4,0,Young Adult,7,0,3,0
+Hantavirus,2019,42,Male,New Mexico,Rodent Infested Home,1,1,1,0,0,1,1,0,0,0,0,3.2,0,0,3,0,Middle Age,5,0,1,0
+Hantavirus,2007,46,Female,Arizona,Rodent Infested Home,1,1,1,1,0,1,0,1,1,0,0,8.7,1,1,1,0,Middle Age,5,0,3,0
+Hantavirus,2009,31,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,0,1,0,0,4.3,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2022,40,Male,Montana,Rural/Farming,1,1,0,1,1,0,1,0,0,0,0,1.0,0,0,3,0,Young Adult,5,0,0,0
+Hantavirus,1996,37,Male,Texas,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,2.5,0,0,8,0,Young Adult,7,0,1,0
+Hantavirus,2012,38,Male,Arizona,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,6.8,1,1,1,0,Young Adult,6,0,3,0
+Hantavirus,1997,26,Female,Colorado,Camping/Hiking,1,1,1,1,1,0,0,0,0,1,0,1.0,0,0,3,0,Young Adult,5,1,0,1
+Hantavirus,2006,37,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,4.5,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2016,43,Female,California,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,4.7,1,0,1,1,Middle Age,7,0,2,0
+Hantavirus,2007,57,Male,Montana,Rodent Infested Home,1,1,0,0,1,0,0,0,0,0,0,1.0,0,0,5,1,Middle Age,3,0,0,1
+Hantavirus,2023,50,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,7.1,1,1,1,1,Middle Age,7,0,3,0
+Hantavirus,2010,67,Male,California,Camping/Hiking,1,1,1,0,1,1,1,1,0,0,0,4.4,0,0,7,1,Elderly,6,0,2,1
+Hantavirus,2005,26,Male,New Mexico,Rodent Infested Home,1,1,0,1,1,1,1,1,1,0,0,7.0,1,1,1,1,Young Adult,6,0,3,0
+Hantavirus,2003,49,Male,California,Camping/Hiking,1,1,1,1,1,1,1,1,0,1,1,6.5,1,1,2,0,Middle Age,7,2,2,1
+Hantavirus,2006,39,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,6.8,1,0,1,1,Young Adult,7,1,2,1
+Hantavirus,2006,67,Male,Arizona,Rural/Farming,1,0,1,1,1,1,1,1,1,0,0,9.6,1,0,7,1,Elderly,6,0,3,1
+Hantavirus,1996,25,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,7.4,1,1,6,1,Young Adult,6,0,3,0
+Hantavirus,2006,25,Female,New Mexico,Camping/Hiking,1,1,1,1,1,0,0,0,0,0,0,1.0,0,0,1,0,Young Adult,5,0,0,0
+Hantavirus,2008,28,Male,Arizona,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,5.8,1,1,2,1,Young Adult,6,0,2,0
+Hantavirus,2014,7,Male,New Mexico,Rodent Infested Home,1,1,1,1,0,0,0,1,1,0,0,6.3,1,0,2,0,Paediatric,4,0,2,0
+Hantavirus,2012,29,Male,New Mexico,Rural/Farming,1,0,0,0,1,1,0,1,1,0,0,6.9,1,1,2,0,Young Adult,3,0,3,0
+Hantavirus,2013,26,Male,Utah,Rural/Farming,1,1,1,1,0,1,1,0,1,0,0,6.1,1,1,11,0,Young Adult,6,0,2,0
+Hantavirus,1993,39,Male,California,Occupational,1,0,1,1,1,1,1,0,1,0,0,4.6,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2002,41,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.4,0,0,1,0,Middle Age,7,0,3,0
+Hantavirus,2012,63,Male,Other,Camping/Hiking,1,0,1,1,1,0,1,0,0,0,0,1.1,0,0,1,1,Elderly,5,0,0,1
+Hantavirus,2008,50,Male,New Mexico,Camping/Hiking,1,1,1,1,1,0,0,1,1,0,1,8.9,1,0,1,0,Middle Age,5,1,2,1
+Hantavirus,1993,28,Male,Other,Camping/Hiking,1,1,1,1,0,0,1,0,1,1,0,2.8,0,0,8,0,Young Adult,5,1,1,1
+Hantavirus,2016,24,Male,Colorado,Rural/Farming,1,1,1,0,0,1,1,1,0,1,0,5.2,0,0,4,0,Young Adult,5,1,2,1
+Hantavirus,2015,43,Male,Other,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,2.8,0,0,4,1,Middle Age,7,0,1,0
+Hantavirus,2010,18,Male,Texas,Rural/Farming,1,0,1,1,1,0,1,1,0,0,0,2.0,0,0,1,0,Paediatric,5,0,1,0
+Hantavirus,1996,62,Male,Oregon,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,2.9,0,0,7,0,Elderly,7,0,1,1
+Hantavirus,2015,53,Male,Other,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,5.2,0,0,5,0,Middle Age,6,0,2,1
+Hantavirus,2010,30,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.3,0,0,2,0,Young Adult,7,0,3,0
+Hantavirus,2016,13,Female,Other,Camping/Hiking,1,0,1,1,1,1,0,0,1,0,0,3.0,0,0,1,1,Paediatric,5,0,2,0
+Hantavirus,2015,55,Male,Arizona,Rodent Infested Home,1,1,1,0,1,1,1,1,1,0,1,9.1,1,1,3,1,Middle Age,6,1,3,1
+Hantavirus,2016,35,Female,Arizona,Rural/Farming,1,1,1,1,1,0,1,0,0,0,0,2.1,0,0,1,0,Young Adult,6,0,0,0
+Hantavirus,2009,54,Male,Arizona,Camping/Hiking,1,1,1,1,0,1,1,0,0,0,0,4.0,0,0,2,1,Middle Age,6,0,1,1
+Hantavirus,2000,14,Male,Texas,Rodent Infested Home,1,1,1,1,1,1,1,1,1,1,0,6.6,0,0,3,0,Paediatric,7,1,3,1
+Hantavirus,2012,28,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,0,0,0,1,2.3,1,1,1,1,Young Adult,7,1,1,1
+Hantavirus,2011,37,Female,Texas,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,4.8,0,0,1,1,Young Adult,7,0,2,0
+Hantavirus,2014,37,Male,Texas,Camping/Hiking,1,1,1,0,0,0,1,0,1,0,1,6.4,0,0,4,1,Young Adult,4,1,1,1
+Hantavirus,2001,30,Female,Utah,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,3.0,0,0,1,1,Young Adult,7,0,1,0
+Hantavirus,2002,45,Female,Oregon,Rodent Infested Home,1,1,1,0,0,1,1,1,0,0,0,5.6,1,1,3,0,Middle Age,5,0,2,0
+Hantavirus,2019,22,Male,California,Camping/Hiking,1,1,1,1,0,1,1,0,1,0,0,5.5,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2015,35,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,7.5,1,1,10,0,Young Adult,7,0,3,0
+Hantavirus,2020,38,Male,Colorado,Rural/Farming,1,1,1,1,0,1,0,1,1,0,1,8.5,1,1,3,0,Young Adult,5,1,3,1
+Hantavirus,2015,44,Male,Colorado,Camping/Hiking,1,0,0,1,1,1,1,0,1,0,0,6.0,1,1,6,0,Middle Age,5,0,2,0
+Hantavirus,2010,46,Female,New Mexico,Camping/Hiking,1,1,1,0,1,1,0,0,0,0,1,3.5,1,0,2,0,Middle Age,5,1,1,1
+Hantavirus,2012,21,Female,Arizona,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,5.2,0,0,1,0,Young Adult,6,0,3,0
+Hantavirus,2019,15,Male,Colorado,Rodent Infested Home,1,1,1,1,0,1,1,0,0,0,0,2.7,0,0,4,0,Paediatric,6,0,1,0
+Hantavirus,2010,54,Male,Other,Camping/Hiking,1,1,1,1,1,0,1,0,0,0,0,2.9,0,0,1,0,Middle Age,6,0,0,1
+Hantavirus,2011,41,Female,Texas,Rural/Farming,1,1,0,1,0,0,1,0,1,0,0,2.6,0,0,5,0,Middle Age,4,0,1,0
+Hantavirus,2001,26,Male,Arizona,Occupational,1,1,1,1,1,0,1,1,1,0,0,6.1,1,1,1,1,Young Adult,6,0,2,0
+Hantavirus,2008,58,Female,Texas,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,6.9,1,1,4,0,Middle Age,6,0,2,1
+Hantavirus,2014,38,Male,New Mexico,Rural/Farming,1,1,0,0,1,1,1,0,0,1,0,3.6,0,0,3,0,Young Adult,5,1,1,1
+Hantavirus,2004,53,Male,California,Rural/Farming,1,1,1,1,1,1,1,0,0,1,0,3.3,0,0,9,0,Middle Age,7,1,1,1
+Hantavirus,2002,37,Male,Montana,Rodent Infested Home,1,1,1,0,0,1,1,1,0,0,0,4.7,0,0,4,1,Young Adult,5,0,2,0
+Hantavirus,2005,65,Male,California,Rodent Infested Home,1,1,1,1,0,0,1,1,0,1,0,4.4,0,0,3,0,Elderly,5,1,1,1
+Hantavirus,2003,61,Male,Arizona,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,7.2,1,1,6,1,Elderly,6,0,3,1
+Hantavirus,2002,33,Male,Other,Rodent Infested Home,1,1,1,0,1,1,1,1,1,1,0,8.4,1,1,1,0,Young Adult,6,1,3,1
+Hantavirus,2007,50,Male,Other,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,5.9,1,0,5,0,Middle Age,6,0,3,0
+Hantavirus,2020,46,Female,Montana,Rodent Infested Home,1,1,1,1,1,0,1,1,1,0,0,4.4,0,0,5,1,Middle Age,6,0,2,0
+Hantavirus,2009,56,Female,Texas,Camping/Hiking,0,1,1,1,0,0,0,0,1,0,0,4.2,0,0,5,0,Middle Age,3,0,1,1
+Hantavirus,2002,23,Male,Montana,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,4.7,0,0,5,1,Young Adult,6,0,2,0
+Hantavirus,1997,46,Male,Colorado,Occupational,1,1,1,0,1,1,1,1,1,0,0,7.7,1,0,4,1,Middle Age,6,0,3,0
+Hantavirus,2013,51,Male,Arizona,Rural/Farming,1,1,1,1,1,0,0,0,0,1,0,4.4,0,0,2,1,Middle Age,5,1,0,1
+Hantavirus,2007,12,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,6.5,1,1,3,0,Paediatric,6,0,3,0
+Hantavirus,2017,20,Male,California,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,2,1,Young Adult,7,0,2,0
+Hantavirus,2012,8,Male,Texas,Occupational,1,1,1,0,1,1,1,1,1,0,0,5.3,0,0,1,1,Paediatric,6,0,3,0
+Hantavirus,2016,33,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,7.8,1,1,2,0,Young Adult,6,0,3,0
+Hantavirus,2004,47,Male,Other,Rural/Farming,1,1,0,0,1,0,1,0,0,0,0,1.0,0,0,2,0,Middle Age,4,0,0,0
+Hantavirus,2013,58,Male,Other,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,7.8,1,1,4,0,Middle Age,6,0,3,1
+Hantavirus,2004,38,Male,Washington,Camping/Hiking,1,1,1,1,0,1,0,1,0,0,0,4.5,0,0,8,0,Young Adult,5,0,2,0
+Hantavirus,2021,59,Female,California,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,8.8,1,0,6,1,Middle Age,6,0,3,1
+Hantavirus,2012,17,Male,Other,Rodent Infested Home,1,1,0,1,1,1,1,1,0,0,0,2.7,0,0,4,0,Paediatric,6,0,2,0
+Hantavirus,2005,13,Male,New Mexico,Occupational,1,1,1,1,1,1,0,1,0,0,0,1.6,0,0,7,0,Paediatric,6,0,2,0
+Hantavirus,2004,36,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,4.4,0,0,3,1,Young Adult,7,0,2,0
+Hantavirus,2002,42,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,0,1,1,1,7.9,1,1,4,0,Middle Age,6,2,2,1
+Hantavirus,2013,36,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,2.7,0,0,2,1,Young Adult,7,0,1,0
+Hantavirus,2003,8,Male,Colorado,Rural/Farming,1,1,1,1,1,0,0,1,1,0,0,6.0,0,0,3,1,Paediatric,5,0,2,0
+Hantavirus,2010,35,Female,Other,Rodent Infested Home,1,1,0,1,1,1,0,1,0,0,0,5.0,0,0,2,0,Young Adult,5,0,2,0
+Hantavirus,2004,18,Male,Other,Camping/Hiking,1,1,1,1,1,0,0,1,1,0,0,4.5,0,0,1,0,Paediatric,5,0,2,0
+Hantavirus,2012,46,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,0,1,1,0,0,3.6,0,0,1,1,Middle Age,5,0,2,0
+Hantavirus,2017,42,Female,California,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.5,0,0,1,1,Middle Age,7,0,1,0
+Hantavirus,2015,23,Male,Other,Camping/Hiking,1,1,1,1,1,1,0,1,0,0,0,5.2,0,0,4,0,Young Adult,6,0,2,0
+Hantavirus,2015,29,Male,California,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,4.5,0,0,8,0,Young Adult,7,0,2,0
+Hantavirus,2002,22,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.7,1,1,7,0,Young Adult,7,0,3,0
+Hantavirus,1997,36,Male,Texas,Rodent Infested Home,1,1,1,1,1,0,0,1,1,0,0,6.0,1,1,5,0,Young Adult,5,0,2,0
+Hantavirus,2013,50,Female,Arizona,Occupational,1,1,1,0,1,1,0,0,0,0,1,3.2,0,0,2,0,Middle Age,5,1,1,1
+Hantavirus,2006,23,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,0,0,1,0,0,5.3,0,0,1,1,Young Adult,6,0,2,0
+Hantavirus,2007,44,Male,Colorado,Occupational,1,1,1,1,1,1,0,0,1,0,1,8.2,1,1,3,0,Middle Age,6,1,2,1
+Hantavirus,1994,29,Male,Utah,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,4.2,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2004,25,Male,Arizona,Camping/Hiking,1,1,0,1,1,0,1,1,0,0,0,1.6,0,0,1,1,Young Adult,5,0,1,0
+Hantavirus,1994,35,Male,California,Camping/Hiking,1,1,1,0,1,1,1,1,0,0,0,4.5,0,0,1,0,Young Adult,6,0,2,0
+Hantavirus,2019,22,Male,California,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,2.4,0,0,2,0,Young Adult,7,0,2,0
+Hantavirus,2003,29,Male,Texas,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,1,8.4,1,0,8,0,Young Adult,7,1,3,1
+Hantavirus,2010,20,Female,Other,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,4.6,1,1,1,0,Young Adult,6,0,2,0
+Hantavirus,1995,64,Male,Other,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,5.1,0,0,1,1,Elderly,7,0,1,1
+Hantavirus,2012,37,Male,Arizona,Rural/Farming,1,1,0,1,1,0,0,1,0,0,0,2.9,0,0,2,0,Young Adult,4,0,1,0
+Hantavirus,2005,27,Female,Oregon,Rural/Farming,1,1,1,1,0,1,0,0,0,0,0,2.7,0,0,1,0,Young Adult,5,0,1,0
+Hantavirus,2020,39,Male,Utah,Rodent Infested Home,1,1,1,1,1,0,1,1,0,0,0,2.3,0,0,4,1,Young Adult,6,0,1,0
+Hantavirus,2019,35,Male,Texas,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,6.7,1,1,2,0,Young Adult,6,0,3,0
+Hantavirus,2005,33,Male,Other,Rural/Farming,1,1,0,1,1,1,1,1,1,0,1,6.7,1,1,1,0,Young Adult,6,1,3,1
+Hantavirus,2020,45,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,4.7,0,0,2,0,Middle Age,7,0,2,0
+Hantavirus,2023,47,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.1,1,0,3,0,Middle Age,7,0,3,0
+Hantavirus,2017,29,Female,Other,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,5,0,Young Adult,7,0,2,0
+Hantavirus,2018,28,Male,Arizona,Camping/Hiking,1,1,1,1,0,1,1,1,1,1,0,7.2,1,1,1,1,Young Adult,6,1,3,1
+Hantavirus,2003,33,Male,Oregon,Rural/Farming,1,1,1,0,0,0,1,1,0,1,0,4.1,0,0,4,0,Young Adult,4,1,1,1
+Hantavirus,2010,5,Female,Other,Rodent Infested Home,1,1,1,0,1,1,1,0,0,1,0,2.3,0,0,2,0,Paediatric,6,1,1,1
+Hantavirus,1996,15,Male,New Mexico,Camping/Hiking,1,1,1,1,1,0,1,0,1,0,0,2.6,0,0,7,1,Paediatric,6,0,1,0
+Hantavirus,1998,56,Male,Other,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.8,1,1,2,1,Middle Age,7,0,2,1
+Hantavirus,2023,60,Male,California,Camping/Hiking,1,1,1,1,1,0,1,0,0,0,1,3.0,0,0,1,0,Middle Age,6,1,0,1
+Hantavirus,2005,33,Female,California,Occupational,1,1,1,1,0,1,1,0,1,0,0,5.8,1,1,1,1,Young Adult,6,0,2,0
+Hantavirus,2015,45,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,1,0,Middle Age,7,0,2,0
+Hantavirus,2016,41,Male,Other,Rural/Farming,1,0,1,1,1,0,1,0,0,0,0,1.0,0,0,1,0,Middle Age,5,0,0,0
+Hantavirus,2018,80,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,1,1,0,9.2,1,1,4,1,Elderly,6,1,3,1
+Hantavirus,2023,52,Male,California,Rural/Farming,1,1,1,1,0,0,0,0,1,0,0,3.3,0,0,4,1,Middle Age,4,0,1,1
+Hantavirus,2003,35,Male,Montana,Camping/Hiking,1,1,1,0,0,1,1,1,0,0,0,4.2,0,0,4,0,Young Adult,5,0,2,0
+Hantavirus,1995,23,Male,Washington,Camping/Hiking,1,1,1,1,0,0,0,1,1,0,0,7.2,1,1,2,0,Young Adult,4,0,2,0
+Hantavirus,2007,14,Female,Washington,Rural/Farming,1,1,1,0,1,1,1,1,1,0,1,6.7,1,1,1,0,Paediatric,6,1,3,1
+Hantavirus,2000,39,Male,New Mexico,Occupational,1,1,1,1,0,1,1,0,1,0,0,4.9,0,0,12,0,Young Adult,6,0,2,0
+Hantavirus,1994,26,Male,Colorado,Rodent Infested Home,1,1,0,0,1,1,1,1,0,0,0,3.9,0,0,3,0,Young Adult,5,0,2,0
+Hantavirus,2006,17,Female,Arizona,Camping/Hiking,1,1,1,1,0,0,0,1,0,0,1,3.5,0,0,1,0,Paediatric,4,1,1,1
+Hantavirus,2016,27,Female,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,6.5,1,0,8,1,Young Adult,7,0,3,0
+Hantavirus,2010,21,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,0,0,1,0,3.4,0,0,7,0,Young Adult,7,1,1,1
+Hantavirus,2005,60,Male,Colorado,Camping/Hiking,1,1,1,1,0,1,1,0,0,0,0,1.6,0,0,5,0,Middle Age,6,0,1,1
+Hantavirus,2012,49,Male,Other,Camping/Hiking,1,1,1,1,1,1,0,1,0,0,1,7.2,1,1,2,0,Middle Age,6,1,2,1
+Hantavirus,2003,36,Female,New Mexico,Rodent Infested Home,1,1,1,1,0,1,1,0,0,0,0,3.2,0,0,1,1,Young Adult,6,0,1,0
+Hantavirus,1993,57,Female,Other,Rodent Infested Home,1,0,0,0,1,0,1,1,1,1,0,6.0,1,1,2,0,Middle Age,3,1,2,1
+Hantavirus,2015,38,Male,Montana,Rural/Farming,1,1,1,1,0,1,0,0,0,0,0,1.0,0,0,7,1,Young Adult,5,0,1,0
+Hantavirus,2011,24,Female,Oregon,Occupational,1,1,1,0,1,0,1,1,1,0,0,4.2,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2015,58,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,5.0,0,0,1,0,Middle Age,7,0,2,1
+Hantavirus,1995,44,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,1,1,0,10.0,1,0,5,1,Middle Age,7,1,3,1
+Hantavirus,2018,22,Male,Washington,Occupational,1,1,1,1,0,1,1,1,0,0,0,4.7,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2011,34,Female,Oregon,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.2,0,0,1,0,Young Adult,7,0,3,0
+Hantavirus,2010,24,Male,Washington,Rodent Infested Home,1,0,1,1,1,1,1,1,1,0,0,6.0,1,1,2,0,Young Adult,6,0,3,0
+Hantavirus,2011,17,Female,New Mexico,Rural/Farming,1,1,1,1,0,0,1,1,0,0,0,2.5,0,0,1,0,Paediatric,5,0,1,0
+Hantavirus,2019,49,Female,Utah,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,0,7.7,1,0,2,0,Middle Age,6,0,3,0
+Hantavirus,2010,63,Male,Utah,Camping/Hiking,1,1,0,0,0,1,0,1,0,0,0,4.1,1,1,6,1,Elderly,3,0,2,1
+Hantavirus,2010,17,Male,Montana,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,4.4,0,0,1,0,Paediatric,6,0,2,0
+Hantavirus,2023,44,Male,Utah,Occupational,1,1,1,1,1,1,1,1,1,1,0,7.6,0,0,14,1,Middle Age,7,1,3,1
+Hantavirus,2015,27,Male,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,3.7,0,0,3,0,Young Adult,7,0,2,0
+Hantavirus,2008,30,Male,Texas,Camping/Hiking,1,1,0,1,1,0,1,1,1,1,0,6.7,1,0,1,0,Young Adult,5,1,2,1
+Hantavirus,2013,28,Male,New Mexico,Rodent Infested Home,1,1,1,0,1,1,1,1,0,0,0,5.1,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2007,24,Female,California,Occupational,1,1,1,1,0,1,1,1,0,0,0,5.1,0,0,1,0,Young Adult,6,0,2,0
+Hantavirus,2003,37,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,0,1,0,0,0,3.7,1,1,5,1,Young Adult,5,0,1,0
+Hantavirus,2010,25,Male,Arizona,Occupational,1,1,1,1,0,0,1,0,1,0,0,2.8,0,0,7,0,Young Adult,5,0,1,0
+Hantavirus,2021,40,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,0,1,0,1,7.1,1,1,5,0,Young Adult,7,1,2,1
+Hantavirus,2021,36,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,4.9,0,0,5,1,Young Adult,7,0,2,0
+Hantavirus,2006,33,Male,Arizona,Rural/Farming,1,1,0,0,0,1,0,0,1,0,0,5.1,0,0,2,0,Young Adult,3,0,2,0
+Hantavirus,2009,24,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,3.6,0,0,1,1,Young Adult,7,0,2,0
+Hantavirus,2002,28,Female,Oregon,Camping/Hiking,1,1,1,1,1,1,0,0,0,0,0,1.8,0,0,4,0,Young Adult,6,0,1,0
+Hantavirus,2023,47,Male,Other,Camping/Hiking,1,1,1,1,1,0,0,0,1,0,0,4.0,0,0,1,0,Middle Age,5,0,1,0
+Hantavirus,2023,44,Female,New Mexico,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,9.8,1,1,2,0,Middle Age,6,0,3,0
+Hantavirus,2012,23,Female,Other,Rural/Farming,1,1,1,1,1,1,1,0,1,1,0,6.0,1,1,1,1,Young Adult,7,1,2,1
+Hantavirus,2016,38,Male,California,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,4.0,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2014,47,Female,Colorado,Occupational,1,1,0,1,1,0,1,0,1,0,0,3.1,0,0,5,0,Middle Age,5,0,1,0
+Hantavirus,2010,13,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,1,0,4.4,0,0,1,0,Paediatric,6,1,2,1
+Hantavirus,1995,44,Female,California,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,8.0,1,1,5,0,Middle Age,7,1,2,1
+Hantavirus,2008,27,Male,Utah,Camping/Hiking,1,0,1,1,1,1,1,0,1,0,0,4.4,0,0,7,1,Young Adult,6,0,2,0
+Hantavirus,2013,44,Female,Washington,Rural/Farming,1,1,1,1,0,0,1,0,1,0,0,4.7,0,0,2,1,Middle Age,5,0,1,0
+Hantavirus,2013,26,Female,New Mexico,Rodent Infested Home,1,0,1,1,0,1,0,1,0,0,0,3.9,0,0,1,1,Young Adult,4,0,2,0
+Hantavirus,2006,11,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.1,0,0,6,0,Paediatric,7,0,1,0
+Hantavirus,2021,14,Female,Arizona,Camping/Hiking,1,1,1,0,1,1,1,1,1,0,0,7.2,1,0,4,1,Paediatric,6,0,3,0
+Hantavirus,2001,37,Male,Colorado,Rural/Farming,0,1,1,1,1,1,1,0,0,0,0,2.0,0,0,1,0,Young Adult,6,0,1,0
+Hantavirus,2009,40,Male,Colorado,Rodent Infested Home,1,1,1,0,0,1,1,0,1,0,0,4.6,0,0,2,0,Young Adult,5,0,2,0
+Hantavirus,2013,24,Male,Colorado,Camping/Hiking,1,1,0,1,1,1,1,1,1,0,0,8.4,1,1,4,1,Young Adult,6,0,3,0
+Hantavirus,2013,45,Male,Oregon,Rodent Infested Home,1,1,1,1,0,1,0,0,0,0,0,3.8,0,0,1,0,Middle Age,5,0,1,0
+Hantavirus,2012,13,Male,Other,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.2,1,0,9,0,Paediatric,7,0,3,0
+Hantavirus,2004,36,Male,Arizona,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,5.9,1,1,6,1,Young Adult,7,0,2,0
+Hantavirus,2001,20,Female,Other,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,2.6,0,0,3,0,Young Adult,7,0,1,0
+Hantavirus,2011,27,Male,Arizona,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,8.8,1,1,9,1,Young Adult,7,0,3,0
+Hantavirus,2010,37,Female,California,Occupational,1,0,1,0,1,1,1,1,0,0,0,4.7,0,0,8,1,Young Adult,5,0,2,0
+Hantavirus,2001,24,Male,Colorado,Camping/Hiking,1,0,1,0,1,1,1,1,1,0,0,7.3,1,1,2,1,Young Adult,5,0,3,0
+Hantavirus,2013,31,Female,Montana,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,1.0,0,0,2,1,Young Adult,7,0,1,0
+Hantavirus,2008,51,Female,Other,Rural/Farming,1,1,0,1,1,1,0,1,1,0,0,6.7,1,1,2,1,Middle Age,5,0,3,1
+Hantavirus,2012,28,Male,Texas,Camping/Hiking,1,1,1,0,1,1,1,1,0,0,0,3.1,0,0,4,1,Young Adult,6,0,2,0
+Hantavirus,2018,48,Male,Arizona,Camping/Hiking,1,1,1,0,0,1,1,0,0,0,0,4.2,0,0,4,0,Middle Age,5,0,1,0
+Hantavirus,2001,21,Female,Montana,Rural/Farming,1,1,1,1,0,1,0,1,1,0,0,4.1,0,0,1,0,Young Adult,5,0,3,0
+Hantavirus,1994,44,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,4.4,0,0,4,0,Middle Age,6,0,2,0
+Hantavirus,2015,57,Male,Other,Camping/Hiking,1,1,1,1,1,0,1,0,0,0,0,1.0,0,0,4,0,Middle Age,6,0,0,1
+Hantavirus,2011,5,Male,California,Rodent Infested Home,1,1,1,0,1,1,1,1,0,0,0,2.8,0,0,2,1,Paediatric,6,0,2,0
+Hantavirus,2013,25,Male,California,Camping/Hiking,1,1,1,0,1,1,0,1,0,0,0,3.8,0,0,3,0,Young Adult,5,0,2,0
+Hantavirus,2018,45,Male,Texas,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,6.7,1,0,1,0,Middle Age,7,0,2,0
+Hantavirus,2016,34,Male,Montana,Rodent Infested Home,1,1,1,1,1,0,1,0,1,1,0,4.9,0,0,1,0,Young Adult,6,1,1,1
+Hantavirus,2022,42,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,1,0,0,0,0,1.0,0,0,1,0,Middle Age,6,0,0,0
+Hantavirus,2009,28,Male,Montana,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.9,1,1,4,1,Young Adult,7,0,2,0
+Hantavirus,2008,38,Female,Colorado,Rural/Farming,1,1,1,1,1,1,0,1,1,1,0,8.2,1,1,7,1,Young Adult,6,1,3,1
+Hantavirus,2007,34,Male,Washington,Rural/Farming,1,1,1,0,1,1,1,1,1,1,0,8.1,1,1,4,0,Young Adult,6,1,3,1
+Hantavirus,2001,53,Female,Oregon,Rural/Farming,1,1,1,1,0,0,0,1,0,0,0,2.4,0,0,3,1,Middle Age,4,0,1,1
+Hantavirus,2010,40,Male,Oregon,Rural/Farming,1,1,1,1,1,1,0,0,1,0,0,4.2,0,0,5,1,Young Adult,6,0,2,0
+Hantavirus,2004,41,Male,Texas,Rural/Farming,1,0,1,1,0,1,1,0,1,0,0,4.4,0,0,1,1,Middle Age,5,0,2,0
+Hantavirus,2021,31,Male,California,Rural/Farming,1,0,1,1,0,1,1,1,1,0,0,7.0,1,1,7,0,Young Adult,5,0,3,0
+Hantavirus,2010,30,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.0,1,1,2,1,Young Adult,7,0,3,0
+Hantavirus,2010,30,Male,Utah,Camping/Hiking,1,0,1,0,1,1,0,1,0,0,0,5.9,1,1,6,0,Young Adult,4,0,2,0
+Hantavirus,2006,42,Male,Colorado,Rural/Farming,1,1,1,1,1,0,1,0,1,0,0,4.1,0,0,5,1,Middle Age,6,0,1,0
+Hantavirus,1995,31,Male,California,Rodent Infested Home,1,1,0,1,1,1,1,0,1,0,0,2.2,0,0,1,1,Young Adult,6,0,2,0
+Hantavirus,1994,41,Male,Colorado,Rural/Farming,1,1,1,1,1,0,1,0,1,0,0,4.0,0,0,3,0,Middle Age,6,0,1,0
+Hantavirus,2007,66,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,1,0,1,0,5.0,0,0,1,0,Elderly,7,1,2,1
+Hantavirus,1997,49,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,4.5,0,0,4,1,Middle Age,7,0,2,0
+Hantavirus,2011,32,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.1,1,0,10,0,Young Adult,7,0,3,0
+Hantavirus,2019,53,Female,Washington,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,0,6.9,1,1,4,1,Middle Age,6,0,3,1
+Hantavirus,2019,31,Male,Colorado,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,3.6,0,0,1,1,Young Adult,6,0,2,0
+Hantavirus,2012,8,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,0,1,1,1,0,1,6.1,1,1,6,0,Paediatric,6,1,2,1
+Hantavirus,2002,22,Female,California,Camping/Hiking,1,1,1,0,0,1,1,1,0,1,0,3.7,0,0,1,0,Young Adult,5,1,2,1
+Hantavirus,2018,10,Male,New Mexico,Occupational,1,1,1,1,1,1,1,1,1,1,0,7.7,1,1,7,1,Paediatric,7,1,3,1
+Hantavirus,2019,32,Male,Colorado,Rural/Farming,1,1,1,1,1,0,1,0,0,0,0,3.2,0,0,1,1,Young Adult,6,0,0,0
+Hantavirus,2002,37,Female,Washington,Rural/Farming,1,0,1,1,1,0,0,0,1,0,0,2.3,0,0,6,0,Young Adult,4,0,1,0
+Hantavirus,2014,60,Male,New Mexico,Rural/Farming,1,1,1,1,0,0,0,0,0,0,0,1.5,0,0,2,0,Middle Age,4,0,0,1
+Hantavirus,2004,41,Male,Oregon,Rural/Farming,1,0,1,1,1,0,1,0,1,0,0,1.2,0,0,4,1,Middle Age,5,0,1,0
+Hantavirus,2016,33,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,0,1,1,0,0,6.7,1,0,6,0,Young Adult,5,0,3,0
+Hantavirus,2023,48,Male,Colorado,Camping/Hiking,1,0,1,1,0,1,1,1,0,0,0,5.6,1,1,3,0,Middle Age,5,0,2,0
+Hantavirus,1994,6,Male,Washington,Rural/Farming,1,1,1,0,1,1,1,0,0,0,0,2.4,0,0,2,1,Paediatric,6,0,1,0
+Hantavirus,2020,40,Male,Colorado,Occupational,1,1,1,1,0,1,1,1,1,0,0,7.3,1,1,4,0,Young Adult,6,0,3,0
+Hantavirus,2011,47,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,5.8,1,1,2,1,Middle Age,7,0,2,0
+Hantavirus,2023,16,Male,Arizona,Rural/Farming,1,1,0,1,1,1,1,0,0,1,0,5.5,0,0,3,1,Paediatric,6,1,1,1
+Hantavirus,2008,53,Female,Colorado,Rural/Farming,1,1,1,1,1,0,1,0,0,0,1,4.5,0,0,1,0,Middle Age,6,1,0,1
+Hantavirus,2018,41,Female,Oregon,Rural/Farming,1,1,1,0,1,1,0,1,1,0,0,6.7,1,1,5,0,Middle Age,5,0,3,0
+Hantavirus,1996,31,Male,Colorado,Rural/Farming,1,1,1,0,0,1,1,1,1,0,0,5.5,0,0,3,1,Young Adult,5,0,3,0
+Hantavirus,2006,45,Male,Utah,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,5.4,0,0,1,1,Middle Age,6,0,2,0
+Hantavirus,1996,68,Male,Other,Camping/Hiking,1,1,1,1,1,0,1,0,1,0,0,3.6,0,0,2,0,Elderly,6,0,1,1
+Hantavirus,2023,39,Male,Arizona,Rural/Farming,1,1,1,0,0,1,0,0,0,0,0,3.1,0,0,1,0,Young Adult,4,0,1,0
+Hantavirus,2017,40,Male,Other,Rural/Farming,1,1,0,1,1,1,1,0,1,0,0,4.0,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2018,30,Male,Arizona,Occupational,1,0,1,1,1,1,1,1,0,0,0,4.3,0,0,4,0,Young Adult,6,0,2,0
+Hantavirus,2021,25,Female,Other,Rodent Infested Home,1,1,1,0,0,1,1,1,0,0,0,5.1,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,1997,48,Male,New Mexico,Occupational,1,1,1,1,0,1,1,0,0,0,0,2.8,0,0,1,0,Middle Age,6,0,1,0
+Hantavirus,2007,25,Male,Montana,Rural/Farming,1,1,1,0,0,1,1,1,1,1,0,6.8,1,1,2,0,Young Adult,5,1,3,1
+Hantavirus,1996,38,Male,California,Rural/Farming,1,1,1,1,1,0,1,1,1,1,0,7.8,1,1,1,0,Young Adult,6,1,2,1
+Hantavirus,2002,30,Male,Arizona,Camping/Hiking,1,1,1,1,1,1,0,1,0,0,0,2.5,1,1,1,0,Young Adult,6,0,2,0
+Hantavirus,2003,43,Female,Montana,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.0,1,0,1,0,Middle Age,7,0,3,0
+Hantavirus,2008,41,Female,Washington,Rural/Farming,0,1,1,1,1,0,1,0,0,0,0,1.2,0,0,1,0,Middle Age,5,0,0,0
+Hantavirus,2004,51,Female,New Mexico,Rodent Infested Home,1,1,1,0,1,1,1,1,0,0,0,5.0,0,0,1,0,Middle Age,6,0,2,1
+Hantavirus,1998,29,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.1,0,0,7,1,Young Adult,7,0,2,0
+Hantavirus,2001,33,Male,Washington,Camping/Hiking,1,1,1,1,0,1,0,0,1,0,0,5.6,1,1,8,0,Young Adult,5,0,2,0
+Hantavirus,2001,23,Male,Montana,Camping/Hiking,1,1,0,0,1,1,0,1,1,0,0,6.7,1,0,4,0,Young Adult,4,0,3,0
+Hantavirus,2023,30,Male,Other,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,6.5,1,1,7,0,Young Adult,7,0,3,0
+Hantavirus,2015,42,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.9,1,1,1,0,Middle Age,7,0,3,0
+Hantavirus,2022,47,Female,Other,Rural/Farming,1,1,1,1,1,0,1,1,0,1,1,5.0,0,0,4,1,Middle Age,6,2,1,1
+Hantavirus,2008,24,Male,Washington,Rural/Farming,1,0,0,1,1,1,1,1,1,0,0,7.5,1,1,4,0,Young Adult,5,0,3,0
+Hantavirus,2004,49,Male,Colorado,Rural/Farming,1,1,0,1,1,1,1,1,1,0,0,6.8,1,1,4,1,Middle Age,6,0,3,0
+Hantavirus,2016,55,Male,New Mexico,Occupational,1,1,1,1,0,0,1,0,0,0,1,3.7,0,0,2,0,Middle Age,5,1,0,1
+Hantavirus,2005,42,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.3,1,1,3,0,Middle Age,7,0,3,0
+Hantavirus,2005,63,Male,Montana,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,7.4,1,1,3,0,Elderly,6,0,3,1
+Hantavirus,2003,26,Female,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,4.9,0,0,3,0,Young Adult,7,0,2,0
+Hantavirus,2000,19,Female,Arizona,Rural/Farming,1,1,1,1,0,0,1,1,1,0,0,4.3,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2004,12,Female,Other,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,7.0,1,0,7,0,Paediatric,6,0,3,0
+Hantavirus,2006,57,Male,California,Rural/Farming,1,1,0,1,1,1,1,1,0,0,0,5.4,0,0,3,0,Middle Age,6,0,2,1
+Hantavirus,2013,46,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,4.3,0,0,5,0,Middle Age,7,0,2,0
+Hantavirus,1996,36,Male,California,Rodent Infested Home,1,0,1,1,0,0,1,1,0,1,0,4.6,0,0,2,0,Young Adult,4,1,1,1
+Hantavirus,2002,40,Male,Colorado,Rodent Infested Home,1,1,0,1,1,1,1,0,1,0,0,5.7,1,1,4,1,Young Adult,6,0,2,0
+Hantavirus,2016,21,Female,Arizona,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,1,9.0,1,1,3,1,Young Adult,6,1,3,1
+Hantavirus,2001,71,Male,Arizona,Camping/Hiking,1,1,1,1,0,0,1,1,1,0,0,7.6,1,0,1,1,Elderly,5,0,2,1
+Hantavirus,2006,38,Male,New Mexico,Occupational,1,1,1,1,1,1,1,1,0,1,0,6.1,1,1,3,0,Young Adult,7,1,2,1
+Hantavirus,2019,38,Male,Utah,Rural/Farming,1,1,1,0,1,1,1,1,0,0,0,3.5,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2001,47,Male,Arizona,Rural/Farming,1,1,0,1,1,1,0,1,0,0,0,7.4,1,1,2,0,Middle Age,5,0,2,0
+Hantavirus,1997,43,Female,Oregon,Rural/Farming,1,1,0,1,1,1,0,1,1,1,0,6.9,1,1,6,1,Middle Age,5,1,3,1
+Hantavirus,2008,40,Male,Other,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,8.1,1,1,3,1,Young Adult,6,0,3,0
+Hantavirus,2005,25,Male,Colorado,Occupational,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,6,0,Young Adult,7,0,2,0
+Hantavirus,2010,43,Male,Montana,Rural/Farming,1,1,1,0,0,1,0,1,0,0,0,3.6,0,0,4,0,Middle Age,4,0,2,0
+Hantavirus,2016,63,Male,California,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,5.8,1,1,3,1,Elderly,7,0,2,1
+Hantavirus,2000,55,Female,Other,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,5.6,1,1,6,0,Middle Age,6,0,2,1
+Hantavirus,2010,59,Female,Colorado,Rural/Farming,1,1,1,0,1,1,0,1,0,0,0,6.6,0,0,6,0,Middle Age,5,0,2,1
+Hantavirus,2009,29,Female,Montana,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,6.2,1,1,3,0,Young Adult,6,0,3,0
+Hantavirus,2000,23,Female,Texas,Camping/Hiking,1,1,1,1,0,1,0,1,0,0,1,5.1,0,0,3,0,Young Adult,5,1,2,1
+Hantavirus,2011,35,Male,Colorado,Occupational,1,1,1,1,0,1,1,0,0,0,1,1.4,0,0,6,1,Young Adult,6,1,1,1
+Hantavirus,2004,37,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,1,0,0,0,1,4.0,0,0,5,0,Young Adult,6,1,0,1
+Hantavirus,2008,52,Male,Montana,Rodent Infested Home,1,1,0,1,1,0,1,1,1,0,0,5.0,0,0,7,0,Middle Age,5,0,2,1
+Hantavirus,1997,13,Male,Washington,Rural/Farming,1,1,1,1,0,1,0,0,0,0,0,2.2,0,0,2,0,Paediatric,5,0,1,0
+Hantavirus,2008,58,Female,Colorado,Rodent Infested Home,0,1,1,0,1,0,0,1,0,0,0,3.6,1,1,1,0,Middle Age,3,0,1,1
+Hantavirus,2005,34,Male,Montana,Camping/Hiking,1,1,1,1,1,1,1,0,0,1,0,3.4,0,0,1,0,Young Adult,7,1,1,1
+Hantavirus,2017,31,Female,Arizona,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,7.7,1,1,1,0,Young Adult,7,0,3,0
+Hantavirus,1996,22,Male,Washington,Rodent Infested Home,1,1,1,1,1,0,0,0,1,1,0,5.8,1,1,1,0,Young Adult,5,1,1,1
+Hantavirus,2007,13,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,4.6,0,0,5,0,Paediatric,7,0,2,0
+Hantavirus,2008,48,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,5.6,1,0,2,0,Middle Age,7,0,2,0
+Hantavirus,2014,38,Female,Colorado,Rural/Farming,1,1,1,1,1,1,0,0,0,0,0,3.0,0,0,1,0,Young Adult,6,0,1,0
+Hantavirus,2010,18,Male,Arizona,Rodent Infested Home,0,1,0,1,1,1,1,1,0,0,0,5.1,0,0,2,0,Paediatric,5,0,2,0
+Hantavirus,2012,18,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,1,0,1,0,4.6,0,0,4,0,Paediatric,6,1,2,1
+Hantavirus,2015,32,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,1,1,1,0,9.0,1,1,2,1,Young Adult,7,1,3,1
+Hantavirus,2018,60,Male,California,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,1,10.0,1,0,2,1,Middle Age,6,1,3,1
+Hantavirus,2005,33,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,6.1,1,1,1,1,Young Adult,7,0,2,0
+Hantavirus,2009,15,Female,Oregon,Camping/Hiking,1,1,1,1,1,0,0,0,1,0,0,2.3,0,0,7,0,Paediatric,5,0,1,0
+Hantavirus,2018,33,Male,New Mexico,Occupational,1,1,1,1,1,0,1,1,0,0,0,2.8,0,0,7,0,Young Adult,6,0,1,0
+Hantavirus,2023,33,Male,Arizona,Rural/Farming,1,1,1,1,0,1,0,1,0,0,0,4.7,0,0,1,0,Young Adult,5,0,2,0
+Hantavirus,2019,5,Male,Arizona,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,4.8,0,0,2,0,Paediatric,6,0,3,0
+Hantavirus,2006,36,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,0,0,1,7.4,1,1,1,0,Young Adult,7,1,2,1
+Hantavirus,2002,33,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,2.5,0,0,6,0,Young Adult,7,0,1,0
+Hantavirus,2008,46,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,0,0,0,1,4.4,1,1,1,1,Middle Age,7,1,1,1
+Hantavirus,2014,62,Male,California,Occupational,1,1,1,1,1,1,1,1,0,0,0,4.8,0,0,3,0,Elderly,7,0,2,1
+Hantavirus,2009,52,Male,Arizona,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,3.7,0,0,1,0,Middle Age,7,0,2,1
+Hantavirus,2008,33,Female,California,Occupational,1,1,1,1,1,0,0,1,1,1,0,5.9,1,1,3,1,Young Adult,5,1,2,1
+Hantavirus,2018,21,Female,Texas,Occupational,1,1,1,1,0,1,1,1,1,0,0,6.8,1,1,5,1,Young Adult,6,0,3,0
+Hantavirus,2006,73,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,0,0,0,0,0,4.4,0,0,4,0,Elderly,6,0,1,1
+Hantavirus,2018,37,Male,California,Rural/Farming,1,0,1,0,1,1,1,0,0,0,0,2.8,0,0,5,1,Young Adult,5,0,1,0
+Hantavirus,2007,37,Male,Other,Rodent Infested Home,1,1,1,1,0,1,0,1,1,0,0,7.5,1,1,1,1,Young Adult,5,0,3,0
+Hantavirus,2006,36,Female,California,Camping/Hiking,1,1,1,0,1,1,1,1,0,0,0,4.2,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2008,39,Male,Montana,Camping/Hiking,1,1,1,1,1,1,1,1,0,1,1,7.4,0,0,11,0,Young Adult,7,2,2,1
+Hantavirus,2015,34,Male,Colorado,Rural/Farming,1,1,1,1,0,1,1,0,0,1,0,5.0,0,0,3,1,Young Adult,6,1,1,1
+Hantavirus,1999,28,Male,Utah,Camping/Hiking,1,1,1,1,0,1,1,0,0,0,0,3.0,0,0,3,1,Young Adult,6,0,1,0
+Hantavirus,2002,29,Male,Utah,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,0,7.7,1,1,2,1,Young Adult,6,0,3,0
+Hantavirus,2022,36,Male,California,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.4,0,0,3,1,Young Adult,7,0,2,0
+Hantavirus,2001,29,Female,Other,Camping/Hiking,1,1,1,1,0,1,0,1,0,0,0,2.9,0,0,3,0,Young Adult,5,0,2,0
+Hantavirus,2010,27,Male,New Mexico,Camping/Hiking,1,1,1,0,0,1,1,1,0,0,0,3.3,0,0,10,1,Young Adult,5,0,2,0
+Hantavirus,2010,38,Male,New Mexico,Camping/Hiking,1,1,1,1,1,0,1,1,0,0,0,3.6,0,0,5,0,Young Adult,6,0,1,0
+Hantavirus,2008,33,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,2.5,0,0,2,1,Young Adult,7,0,1,0
+Hantavirus,2012,58,Female,Oregon,Rodent Infested Home,1,1,1,0,1,1,0,1,1,0,0,8.2,1,1,5,0,Middle Age,5,0,3,1
+Hantavirus,2003,5,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,0,0,1,0,0,5.8,1,1,1,0,Paediatric,5,0,2,0
+Hantavirus,2010,52,Female,Colorado,Rural/Farming,1,1,1,0,1,1,0,0,1,0,0,6.3,1,0,3,0,Middle Age,5,0,2,1
+Hantavirus,2006,54,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,6.9,1,1,2,1,Middle Age,6,0,2,1
+Hantavirus,2012,7,Male,Colorado,Camping/Hiking,1,1,1,0,1,1,0,0,1,0,0,4.3,0,0,5,0,Paediatric,5,0,2,0
+Hantavirus,2000,32,Male,Utah,Rural/Farming,1,1,1,0,1,1,1,1,1,0,0,6.2,1,1,3,1,Young Adult,6,0,3,0
+Hantavirus,2010,31,Male,California,Rodent Infested Home,1,1,1,0,1,1,0,0,0,0,0,2.4,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2002,17,Male,Arizona,Camping/Hiking,1,0,1,1,1,0,1,0,0,0,0,1.0,0,0,2,0,Paediatric,5,0,0,0
+Hantavirus,2004,26,Female,Arizona,Rodent Infested Home,0,1,1,1,1,1,1,1,1,1,0,9.3,1,1,4,1,Young Adult,6,1,3,1
+Hantavirus,2003,21,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,0,1,0,0,0,0,1.4,0,0,5,0,Young Adult,6,0,0,0
+Hantavirus,2002,61,Male,Colorado,Camping/Hiking,1,1,0,1,1,0,1,1,1,0,0,6.9,1,1,7,0,Elderly,5,0,2,1
+Hantavirus,2017,50,Male,Montana,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,6.7,1,1,2,0,Middle Age,7,0,2,0
+Hantavirus,2004,54,Female,Other,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,3.6,0,0,1,0,Middle Age,7,0,2,1
+Hantavirus,2021,47,Female,Oregon,Rural/Farming,1,1,1,1,0,1,0,1,0,0,0,5.5,0,0,4,1,Middle Age,5,0,2,0
+Hantavirus,2022,21,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,3.3,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2010,29,Female,Other,Camping/Hiking,1,1,1,1,1,1,1,1,0,1,0,5.4,0,0,2,0,Young Adult,7,1,2,1
+Hantavirus,2000,43,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.0,0,0,1,1,Middle Age,7,0,2,0
+Hantavirus,2006,19,Male,Utah,Rural/Farming,1,1,1,1,0,1,1,0,0,0,0,2.7,0,0,14,1,Young Adult,6,0,1,0
+Hantavirus,2016,46,Female,California,Rural/Farming,1,1,1,0,1,1,1,0,1,0,0,5.6,1,1,7,0,Middle Age,6,0,2,0
+Hantavirus,2006,33,Female,Arizona,Camping/Hiking,1,1,0,1,1,0,1,0,1,0,0,4.8,0,0,6,0,Young Adult,5,0,1,0
+Hantavirus,1997,31,Male,Colorado,Rural/Farming,1,1,1,0,1,1,0,0,0,0,0,1.8,0,0,8,0,Young Adult,5,0,1,0
+Hantavirus,2010,46,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,8.1,0,0,6,0,Middle Age,7,0,3,0
+Hantavirus,2018,43,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,1,0,8.5,0,0,3,1,Middle Age,7,1,3,1
+Hantavirus,2016,31,Female,Colorado,Camping/Hiking,1,1,1,1,1,1,0,0,0,0,0,1.0,0,0,3,0,Young Adult,6,0,1,0
+Hantavirus,2001,53,Male,California,Occupational,1,1,1,1,1,1,0,0,1,0,0,4.7,0,0,7,1,Middle Age,6,0,2,1
+Hantavirus,2013,21,Male,Washington,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,4.0,0,0,7,0,Young Adult,6,0,2,0
+Hantavirus,2003,45,Male,California,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,8.5,1,0,1,1,Middle Age,7,0,3,0
+Hantavirus,2003,45,Male,New Mexico,Rural/Farming,1,1,1,1,1,0,0,1,1,0,0,6.3,1,0,2,0,Middle Age,5,0,2,0
+Hantavirus,2019,32,Male,Other,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,3.3,0,0,3,0,Young Adult,6,0,2,0
+Hantavirus,2003,41,Female,Other,Camping/Hiking,1,1,1,1,1,1,1,0,0,1,0,3.6,0,0,6,1,Middle Age,7,1,1,1
+Hantavirus,2004,19,Male,Utah,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,6.6,1,1,1,0,Young Adult,7,0,2,0
+Hantavirus,1993,49,Male,Other,Camping/Hiking,1,1,1,1,1,0,1,1,0,0,0,3.6,0,0,1,1,Middle Age,6,0,1,0
+Hantavirus,2019,34,Male,Texas,Rodent Infested Home,1,1,1,1,1,1,1,1,0,1,0,5.2,0,0,1,1,Young Adult,7,1,2,1
+Hantavirus,2016,29,Female,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,1,0,8.4,1,0,2,1,Young Adult,7,1,3,1
+Hantavirus,2011,51,Male,New Mexico,Rural/Farming,1,1,1,1,0,0,0,0,0,0,0,2.3,0,0,2,0,Middle Age,4,0,0,1
+Hantavirus,2015,27,Male,Arizona,Rodent Infested Home,1,1,1,1,0,1,1,1,0,1,0,4.9,0,0,9,1,Young Adult,6,1,2,1
+Hantavirus,2001,17,Female,Colorado,Camping/Hiking,1,1,1,0,1,1,1,1,1,0,0,7.0,1,1,5,0,Paediatric,6,0,3,0
+Hantavirus,2008,15,Female,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,3.6,0,0,6,1,Paediatric,7,0,2,0
+Hantavirus,2006,45,Female,New Mexico,Camping/Hiking,1,1,1,0,0,1,1,1,0,0,0,5.6,1,1,1,0,Middle Age,5,0,2,0
+Hantavirus,1998,19,Female,Montana,Rodent Infested Home,1,1,1,1,1,1,0,0,0,1,0,3.2,0,0,2,0,Young Adult,6,1,1,1
+Hantavirus,2008,61,Male,Utah,Camping/Hiking,1,1,1,1,1,0,1,0,1,0,0,4.8,0,0,5,0,Elderly,6,0,1,1
+Hantavirus,2021,7,Female,Texas,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,3.5,0,0,3,0,Paediatric,6,0,2,0
+Hantavirus,1995,60,Male,New Mexico,Occupational,1,1,1,1,1,0,1,0,1,0,0,3.5,0,0,4,0,Middle Age,6,0,1,1
+Hantavirus,2005,39,Female,Oregon,Camping/Hiking,1,1,1,0,1,1,1,0,0,0,0,3.6,0,0,1,1,Young Adult,6,0,1,0
+Hantavirus,2002,35,Female,Montana,Rural/Farming,1,1,1,1,1,0,1,1,0,0,0,3.0,0,0,3,1,Young Adult,6,0,1,0
+Hantavirus,2003,29,Female,Arizona,Rural/Farming,1,1,1,1,1,1,0,0,0,0,0,2.7,1,1,5,1,Young Adult,6,0,1,0
+Hantavirus,2020,42,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,5.5,0,0,1,0,Middle Age,7,1,2,1
+Hantavirus,2008,36,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,6.0,1,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2008,52,Male,Arizona,Rural/Farming,1,1,1,1,1,0,0,0,0,0,0,1.0,0,0,1,1,Middle Age,5,0,0,1
+Hantavirus,2015,38,Female,Other,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,1,5.7,1,1,7,1,Young Adult,6,1,2,1
+Hantavirus,2001,39,Female,Colorado,Camping/Hiking,1,1,1,1,1,0,1,1,0,1,0,5.0,0,0,1,0,Young Adult,6,1,1,1
+Hantavirus,2008,31,Male,California,Camping/Hiking,1,1,1,0,1,0,1,1,1,0,0,6.6,1,1,3,0,Young Adult,5,0,2,0
+Hantavirus,2007,36,Male,Other,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,0,6.6,1,1,1,0,Young Adult,7,0,3,0
+Hantavirus,2010,41,Male,Washington,Rural/Farming,1,1,1,1,1,1,1,0,1,1,0,8.2,1,1,1,0,Middle Age,7,1,2,1
+Hantavirus,2023,13,Female,New Mexico,Rural/Farming,1,0,1,1,1,1,1,0,1,0,0,4.7,0,0,3,0,Paediatric,6,0,2,0
+Hantavirus,2015,18,Female,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.5,0,0,3,1,Paediatric,7,0,3,0
+Hantavirus,2007,47,Male,New Mexico,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,5.3,0,0,6,0,Middle Age,6,0,2,0
+Hantavirus,2017,39,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,1,0,1,0,5.3,0,0,4,0,Young Adult,7,1,2,1
+Hantavirus,2001,34,Female,California,Rural/Farming,1,1,1,0,1,1,0,1,1,0,0,7.5,1,1,1,1,Young Adult,5,0,3,0
+Hantavirus,1994,37,Female,New Mexico,Camping/Hiking,1,1,1,1,1,0,0,1,1,0,0,5.6,1,0,2,1,Young Adult,5,0,2,0
+Hantavirus,2002,41,Male,Other,Rodent Infested Home,1,1,1,1,1,1,0,0,1,1,1,7.5,0,0,2,0,Middle Age,6,2,2,1
+Hantavirus,2006,29,Male,California,Rural/Farming,1,1,1,1,0,1,1,1,1,0,0,6.0,1,1,1,1,Young Adult,6,0,3,0
+Hantavirus,2009,26,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,1,1,0,1,9.0,1,1,9,0,Young Adult,7,1,3,1
+Hantavirus,2011,39,Male,California,Rodent Infested Home,1,1,1,1,0,0,1,1,1,0,0,4.5,0,0,3,0,Young Adult,5,0,2,0
+Hantavirus,2020,23,Male,Montana,Rodent Infested Home,1,0,1,1,1,1,0,0,1,0,0,3.6,0,0,3,0,Young Adult,5,0,2,0
+Hantavirus,2009,42,Male,New Mexico,Occupational,1,0,1,1,1,1,1,0,1,0,0,5.6,1,1,5,0,Middle Age,6,0,2,0
+Hantavirus,2009,13,Female,Colorado,Rural/Farming,1,1,1,1,1,0,1,0,0,0,0,2.0,0,0,5,0,Paediatric,6,0,0,0
+Hantavirus,1995,51,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,0,1,1,0,6.2,1,1,5,1,Middle Age,7,1,2,1
+Hantavirus,1994,43,Female,California,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,1,9.2,1,0,2,0,Middle Age,7,1,3,1
+Hantavirus,2010,40,Male,Texas,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,1,5.0,0,0,2,0,Young Adult,7,1,1,1
+Hantavirus,2008,50,Male,Arizona,Camping/Hiking,1,1,1,1,1,0,0,0,1,0,0,4.8,0,0,6,0,Middle Age,5,0,1,0
+Hantavirus,2018,60,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,5.5,0,0,9,1,Middle Age,6,0,2,1
+Hantavirus,2001,51,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,0,1,0,0,0,3.9,0,0,1,0,Middle Age,6,0,2,1
+Hantavirus,1994,11,Female,California,Occupational,1,1,1,0,1,1,1,1,1,1,0,5.1,1,1,6,0,Paediatric,6,1,3,1
+Hantavirus,2008,19,Female,Colorado,Occupational,1,1,1,1,1,0,1,0,0,0,0,1.0,0,0,2,0,Young Adult,6,0,0,0
+Hantavirus,2003,28,Male,New Mexico,Rodent Infested Home,1,1,0,1,1,0,1,0,1,1,0,5.5,0,0,3,1,Young Adult,5,1,1,1
+Hantavirus,1995,37,Male,Oregon,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,4.0,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2014,44,Female,Other,Rodent Infested Home,1,1,0,0,0,0,1,1,0,0,0,4.0,0,0,3,0,Middle Age,3,0,1,0
+Hantavirus,1999,26,Male,Utah,Rural/Farming,1,1,1,1,0,1,0,0,0,0,0,1.3,0,0,2,0,Young Adult,5,0,1,0
+Hantavirus,2011,39,Male,Other,Rural/Farming,1,1,1,1,1,1,0,1,1,0,0,7.3,1,0,1,0,Young Adult,6,0,3,0
+Hantavirus,2004,26,Female,Colorado,Rodent Infested Home,1,0,1,0,0,1,1,1,0,0,0,5.0,1,1,7,0,Young Adult,4,0,2,0
+Hantavirus,2001,28,Male,Other,Rural/Farming,1,1,1,0,0,1,1,0,0,0,1,2.9,0,0,3,0,Young Adult,5,1,1,1
+Hantavirus,2006,17,Male,Colorado,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,5.2,0,0,4,0,Paediatric,6,0,2,0
+Hantavirus,2016,24,Male,Other,Rural/Farming,1,1,1,1,0,0,1,0,0,0,0,1.0,0,0,7,0,Young Adult,5,0,0,0
+Hantavirus,2007,18,Female,Other,Rodent Infested Home,1,1,1,1,1,0,0,1,0,0,0,3.2,0,0,5,1,Paediatric,5,0,1,0
+Hantavirus,2015,23,Male,Washington,Camping/Hiking,1,0,1,1,1,1,1,0,1,0,1,6.1,0,0,1,1,Young Adult,6,1,2,1
+Hantavirus,1999,51,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,7.6,1,0,6,1,Middle Age,7,0,3,1
+Hantavirus,2015,23,Female,Texas,Rural/Farming,1,0,1,1,1,0,0,1,1,0,0,6.7,1,1,1,0,Young Adult,4,0,2,0
+Hantavirus,2003,73,Male,Colorado,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,8.9,1,1,5,0,Elderly,7,0,3,1
+Hantavirus,2013,43,Female,Arizona,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.1,0,0,10,1,Middle Age,7,0,1,0
+Hantavirus,2010,39,Male,Texas,Rural/Farming,1,1,0,0,1,1,0,0,0,0,0,2.6,0,0,5,0,Young Adult,4,0,1,0
+Hantavirus,2021,24,Female,New Mexico,Camping/Hiking,1,1,1,1,1,0,0,1,0,0,1,3.8,0,0,2,0,Young Adult,5,1,1,1
+Hantavirus,2007,46,Male,Montana,Rural/Farming,1,1,1,1,0,0,1,1,1,0,0,6.0,1,1,10,1,Middle Age,5,0,2,0
+Hantavirus,1996,28,Male,Other,Occupational,1,1,1,1,1,0,1,1,1,0,1,9.1,1,0,3,1,Young Adult,6,1,2,1
+Hantavirus,1994,38,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,0,1,1,0,6.5,1,1,1,1,Young Adult,7,1,2,1
+Hantavirus,2017,72,Male,Utah,Occupational,1,0,1,0,1,1,1,0,1,0,0,4.1,0,0,1,0,Elderly,5,0,2,1
+Hantavirus,2009,35,Female,Other,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.5,1,0,1,0,Young Adult,7,0,3,0
+Hantavirus,2015,53,Female,Other,Rodent Infested Home,1,1,1,1,1,1,0,0,0,0,0,1.2,1,1,12,0,Middle Age,6,0,1,1
+Hantavirus,2003,27,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.0,0,0,5,1,Young Adult,7,0,1,0
+Hantavirus,2006,36,Male,California,Rodent Infested Home,0,1,1,1,1,1,1,0,0,0,1,1.8,0,0,5,0,Young Adult,6,1,1,1
+Hantavirus,1994,61,Female,Other,Occupational,1,1,1,0,1,0,1,1,0,1,0,4.0,0,0,4,0,Elderly,5,1,1,1
+Hantavirus,2022,28,Female,Utah,Rural/Farming,1,1,0,1,0,1,1,1,1,0,0,5.3,0,0,4,0,Young Adult,5,0,3,0
+Hantavirus,2012,62,Male,New Mexico,Rural/Farming,1,1,0,1,1,1,1,1,0,0,0,5.7,1,1,2,1,Elderly,6,0,2,1
+Hantavirus,2021,46,Male,California,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,5.4,0,0,1,1,Middle Age,6,0,2,0
+Hantavirus,2004,29,Male,Washington,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,7.2,1,1,4,0,Young Adult,6,0,3,0
+Hantavirus,2011,45,Male,Colorado,Camping/Hiking,1,1,1,1,0,1,1,1,0,1,1,6.9,1,1,10,1,Middle Age,6,2,2,1
+Hantavirus,2013,50,Male,Montana,Rural/Farming,1,1,1,1,1,0,0,0,1,0,0,2.6,0,0,4,0,Middle Age,5,0,1,0
+Hantavirus,2005,45,Male,Montana,Camping/Hiking,1,1,1,0,1,1,1,1,1,0,0,7.9,1,1,7,1,Middle Age,6,0,3,0
+Hantavirus,2018,15,Male,New Mexico,Rural/Farming,1,1,0,1,1,0,0,0,0,0,0,2.4,0,0,1,0,Paediatric,4,0,0,0
+Hantavirus,2022,26,Female,Texas,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.2,0,0,4,1,Young Adult,7,0,2,0
+Hantavirus,2019,33,Male,Utah,Camping/Hiking,1,0,0,1,0,0,1,0,1,0,0,3.1,0,0,2,0,Young Adult,3,0,1,0
+Hantavirus,2014,35,Male,California,Rodent Infested Home,1,1,1,1,1,1,0,0,1,1,0,4.6,0,0,1,1,Young Adult,6,1,2,1
+Hantavirus,2004,45,Male,New Mexico,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,6.4,1,1,8,1,Middle Age,7,0,3,0
+Hantavirus,2004,39,Male,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.6,1,1,2,0,Young Adult,7,0,2,0
+Hantavirus,2022,18,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.6,1,1,5,1,Paediatric,7,0,2,0
+Hantavirus,1993,42,Male,Other,Rural/Farming,1,1,1,1,1,1,0,0,0,0,0,3.0,0,0,3,0,Middle Age,6,0,1,0
+Hantavirus,2014,45,Male,Colorado,Rodent Infested Home,1,1,1,0,1,0,0,1,0,0,0,4.1,0,0,1,0,Middle Age,4,0,1,0
+Hantavirus,2013,44,Male,Montana,Occupational,1,0,1,1,0,0,1,1,0,0,0,4.0,0,0,5,0,Middle Age,4,0,1,0
+Hantavirus,2011,52,Male,Colorado,Rural/Farming,1,1,0,1,1,1,0,1,0,0,0,5.6,1,1,2,0,Middle Age,5,0,2,1
+Hantavirus,2023,48,Male,Arizona,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,6.8,0,0,6,0,Middle Age,7,0,3,0
+Hantavirus,2005,43,Female,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,0,1,1,0,6.5,1,1,1,1,Middle Age,7,1,2,1
+Hantavirus,2006,36,Male,Washington,Rodent Infested Home,1,1,1,0,1,1,1,0,0,0,1,2.9,0,0,2,0,Young Adult,6,1,1,1
+Hantavirus,1997,13,Female,New Mexico,Rural/Farming,1,1,0,1,0,1,1,1,0,0,0,3.9,1,0,4,1,Paediatric,5,0,2,0
+Hantavirus,2008,43,Male,Arizona,Occupational,1,1,1,1,0,1,1,0,0,0,0,3.1,0,0,1,1,Middle Age,6,0,1,0
+Hantavirus,2004,39,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,0,1,0,0,6.8,1,1,5,0,Young Adult,6,0,2,0
+Hantavirus,2006,40,Male,California,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,5.9,1,1,1,1,Young Adult,7,0,3,0
+Hantavirus,2017,19,Male,Montana,Rural/Farming,1,1,0,1,1,1,1,0,1,1,0,6.1,1,1,1,1,Young Adult,6,1,2,1
+Hantavirus,2021,21,Female,New Mexico,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,6.1,1,0,3,1,Young Adult,7,0,2,0
+Hantavirus,2002,51,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,5.8,1,1,5,1,Middle Age,6,0,2,1
+Hantavirus,2006,36,Female,Arizona,Rural/Farming,1,1,1,1,1,0,0,1,0,0,0,3.9,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2021,46,Male,Other,Rural/Farming,1,1,1,1,1,1,1,1,0,0,0,5.5,0,0,4,0,Middle Age,7,0,2,0
+Hantavirus,1996,37,Male,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,5.9,0,0,2,0,Young Adult,7,0,2,0
+Hantavirus,1998,37,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,1,1,0,7.0,1,1,1,0,Young Adult,7,1,3,1
+Hantavirus,2001,50,Male,Utah,Rural/Farming,1,1,1,0,0,1,1,1,1,0,0,6.1,1,1,2,1,Middle Age,5,0,3,0
+Hantavirus,2010,29,Male,Arizona,Rodent Infested Home,1,1,1,0,0,1,0,0,1,0,0,4.9,0,0,2,1,Young Adult,4,0,2,0
+Hantavirus,2001,38,Male,Arizona,Rodent Infested Home,1,1,1,0,1,1,1,0,1,0,0,3.0,0,0,7,0,Young Adult,6,0,2,0
+Hantavirus,2022,30,Male,Utah,Rodent Infested Home,1,1,0,0,1,1,1,1,0,0,0,5.6,1,1,5,0,Young Adult,5,0,2,0
+Hantavirus,2008,30,Male,Other,Rural/Farming,1,1,1,0,1,1,1,0,0,0,0,3.6,0,0,1,1,Young Adult,6,0,1,0
+Hantavirus,2009,32,Female,Other,Rodent Infested Home,1,1,1,1,1,1,1,1,1,1,0,7.5,1,1,1,1,Young Adult,7,1,3,1
+Hantavirus,2003,40,Female,Texas,Occupational,1,0,1,1,1,1,0,1,1,0,0,6.8,1,1,3,0,Young Adult,5,0,3,0
+Hantavirus,2008,30,Female,Arizona,Rodent Infested Home,1,1,1,0,1,1,1,0,0,1,0,3.3,0,0,2,0,Young Adult,6,1,1,1
+Hantavirus,2012,54,Male,Utah,Rural/Farming,1,1,1,1,1,1,1,0,1,0,0,5.7,1,1,9,0,Middle Age,7,0,2,1
+Hantavirus,2015,24,Male,Colorado,Camping/Hiking,1,1,1,1,1,0,0,0,1,0,0,3.3,0,0,7,1,Young Adult,5,0,1,0
+Hantavirus,2015,34,Male,Texas,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,1,4.3,0,0,1,0,Young Adult,7,1,1,1
+Hantavirus,2010,30,Female,Arizona,Camping/Hiking,1,1,1,1,0,0,1,0,1,0,0,3.2,0,0,5,0,Young Adult,5,0,1,0
+Hantavirus,2020,57,Male,Montana,Rural/Farming,1,0,1,1,1,0,1,1,0,1,1,6.9,1,0,4,0,Middle Age,5,2,1,1
+Hantavirus,2017,39,Male,Colorado,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.6,1,0,4,1,Young Adult,7,0,3,0
+Hantavirus,2015,51,Female,Colorado,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,6.9,1,1,14,0,Middle Age,6,0,3,1
+Hantavirus,1996,16,Male,Other,Rodent Infested Home,1,1,1,1,1,0,1,0,1,0,0,4.3,0,0,3,0,Paediatric,6,0,1,0
+Hantavirus,1993,40,Male,New Mexico,Rural/Farming,1,1,0,1,1,1,0,0,0,0,0,1.3,0,0,5,0,Young Adult,5,0,1,0
+Hantavirus,2002,49,Male,California,Occupational,1,1,1,1,0,0,1,1,0,0,0,3.4,0,0,6,0,Middle Age,5,0,1,0
+Hantavirus,2012,38,Male,Colorado,Rural/Farming,1,1,1,1,1,1,0,1,0,0,0,5.6,1,0,4,0,Young Adult,6,0,2,0
+Hantavirus,2007,51,Male,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,4.3,0,0,9,1,Middle Age,7,0,2,1
+Hantavirus,2007,29,Male,New Mexico,Rodent Infested Home,1,1,1,1,0,1,1,1,1,0,0,7.2,1,1,3,1,Young Adult,6,0,3,0
+Hantavirus,2019,56,Male,New Mexico,Rodent Infested Home,1,1,0,0,1,1,1,1,1,0,0,8.2,1,1,6,0,Middle Age,5,0,3,1
+Hantavirus,2020,69,Male,Other,Occupational,1,1,1,1,1,1,0,1,0,0,1,5.9,1,1,1,1,Elderly,6,1,2,1
+Hantavirus,2020,31,Female,Colorado,Rural/Farming,1,1,1,1,0,1,1,0,0,1,0,3.4,0,0,1,0,Young Adult,6,1,1,1
+Hantavirus,2005,30,Male,Other,Rodent Infested Home,1,0,1,1,1,1,1,1,0,0,0,4.2,0,0,4,0,Young Adult,6,0,2,0
+Hantavirus,2013,57,Male,Texas,Rural/Farming,1,1,1,1,1,1,0,0,1,1,0,6.2,1,1,3,0,Middle Age,6,1,2,1
+Hantavirus,2004,59,Male,Arizona,Rodent Infested Home,1,1,0,1,1,1,1,1,0,0,1,8.8,1,1,3,1,Middle Age,6,1,2,1
+Hantavirus,2002,29,Female,Texas,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,3.6,0,0,2,0,Young Adult,7,0,2,0
+Hantavirus,2002,31,Male,California,Rodent Infested Home,1,1,0,0,1,1,1,0,1,0,0,5.9,1,1,6,1,Young Adult,5,0,2,0
+Hantavirus,2006,33,Male,Utah,Rural/Farming,1,1,1,0,0,1,1,0,0,0,0,2.1,0,0,3,0,Young Adult,5,0,1,0
+Hantavirus,2007,18,Female,Colorado,Rodent Infested Home,1,1,1,1,1,0,0,0,1,1,0,3.0,0,0,13,0,Paediatric,5,1,1,1
+Hantavirus,2017,24,Female,Arizona,Rural/Farming,1,1,1,0,1,1,1,0,1,0,0,4.8,0,0,3,1,Young Adult,6,0,2,0
+Hantavirus,1999,22,Male,Other,Rural/Farming,1,1,1,0,1,1,1,0,0,0,0,2.8,0,0,4,0,Young Adult,6,0,1,0
+Hantavirus,2014,26,Female,Other,Rodent Infested Home,1,1,1,1,1,1,0,0,1,0,0,5.7,1,0,6,0,Young Adult,6,0,2,0
+Hantavirus,2009,36,Male,Other,Camping/Hiking,1,1,1,0,1,1,1,0,1,0,0,6.6,1,1,4,0,Young Adult,6,0,2,0
+Hantavirus,2004,40,Male,Arizona,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,8.1,1,1,1,1,Young Adult,7,0,2,0
+Hantavirus,2009,58,Male,Utah,Rural/Farming,1,1,0,1,0,0,1,1,0,0,0,4.0,0,0,2,1,Middle Age,4,0,1,1
+Hantavirus,2005,23,Male,California,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,1.5,0,0,1,1,Young Adult,7,0,1,0
+Hantavirus,2010,50,Female,California,Rodent Infested Home,1,1,1,1,0,1,0,0,1,0,0,6.0,1,1,4,0,Middle Age,5,0,2,0
+Hantavirus,2007,34,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,0,1,1,0,0,6.8,1,0,4,0,Young Adult,6,0,3,0
+Hantavirus,2001,36,Male,Texas,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,5.5,0,0,6,1,Young Adult,6,0,2,0
+Hantavirus,1999,46,Female,Colorado,Rodent Infested Home,1,1,1,1,1,0,0,1,0,0,1,3.3,0,0,6,0,Middle Age,5,1,1,1
+Hantavirus,2010,21,Female,Arizona,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,4.5,0,0,1,0,Young Adult,7,0,1,0
+Hantavirus,2020,42,Male,Other,Camping/Hiking,1,0,1,1,1,1,0,1,0,0,0,5.6,1,1,6,1,Middle Age,5,0,2,0
+Hantavirus,2006,39,Male,Colorado,Camping/Hiking,1,1,1,0,1,0,1,1,1,0,0,4.0,0,0,7,0,Young Adult,5,0,2,0
+Hantavirus,2014,43,Male,New Mexico,Rodent Infested Home,1,0,1,1,1,1,1,1,0,0,1,5.3,0,0,1,0,Middle Age,6,1,2,1
+Hantavirus,2012,41,Female,New Mexico,Rodent Infested Home,1,1,1,1,1,1,1,1,0,0,0,5.5,0,0,4,0,Middle Age,7,0,2,0
+Hantavirus,2021,71,Male,Other,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,9.3,1,0,8,1,Elderly,6,0,3,1
+Hantavirus,2017,28,Female,California,Rural/Farming,1,1,0,1,1,0,0,1,0,0,0,1.6,0,0,2,0,Young Adult,4,0,1,0
+Hantavirus,2010,29,Male,Arizona,Rodent Infested Home,1,1,1,0,1,1,0,1,1,0,0,7.6,1,0,3,1,Young Adult,5,0,3,0
+Hantavirus,2012,28,Male,Oregon,Rodent Infested Home,1,0,1,1,1,1,0,1,1,1,0,5.9,1,1,4,1,Young Adult,5,1,3,1
+Hantavirus,2020,29,Male,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,1,0,1,0,5.3,0,0,3,1,Young Adult,7,1,2,1
+Hantavirus,2007,28,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,1,0,1,9.2,0,0,3,0,Young Adult,7,1,3,1
+Hantavirus,2005,53,Male,Washington,Rodent Infested Home,1,1,1,1,1,1,1,0,1,0,0,5.0,0,0,5,0,Middle Age,7,0,2,1
+Hantavirus,1993,56,Female,Utah,Rodent Infested Home,1,1,1,1,1,1,1,1,0,1,0,4.7,0,0,5,0,Middle Age,7,1,2,1
+Hantavirus,2017,29,Male,Montana,Rural/Farming,1,1,1,1,1,1,1,0,0,0,0,2.5,0,0,3,1,Young Adult,7,0,1,0
+Hantavirus,2016,25,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,1,1,1,0,1,7.3,1,1,10,0,Young Adult,6,1,3,1
+Hantavirus,1998,43,Female,Other,Rodent Infested Home,1,1,1,1,1,0,1,1,1,0,0,6.4,1,1,1,0,Middle Age,6,0,2,0
+Hantavirus,2010,29,Male,California,Rural/Farming,1,1,1,1,1,0,1,0,1,0,0,2.5,0,0,6,1,Young Adult,6,0,1,0
+Hantavirus,2008,45,Female,Colorado,Occupational,1,1,1,1,1,1,1,1,0,0,1,5.3,0,0,1,0,Middle Age,7,1,2,1
+Hantavirus,1999,39,Male,Arizona,Rodent Infested Home,1,0,1,1,1,0,1,0,1,1,0,2.6,1,1,3,1,Young Adult,5,1,1,1
+Hantavirus,2023,15,Male,New Mexico,Camping/Hiking,1,1,1,0,1,1,0,0,0,0,0,2.1,0,0,1,0,Paediatric,5,0,1,0
+Hantavirus,2002,58,Male,New Mexico,Rural/Farming,1,1,1,1,0,0,0,0,1,0,0,4.1,0,0,3,1,Middle Age,4,0,1,1
+Hantavirus,1996,62,Male,Utah,Rural/Farming,1,1,0,1,1,0,1,0,1,0,1,4.4,0,0,4,0,Elderly,5,1,1,1
+Hantavirus,2010,28,Female,New Mexico,Occupational,1,1,1,0,1,1,0,0,1,0,0,5.0,0,0,2,0,Young Adult,5,0,2,0
+Hantavirus,2014,31,Male,Arizona,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,6.5,1,1,3,0,Young Adult,6,0,2,0
+Hantavirus,1994,41,Male,California,Rodent Infested Home,1,1,1,1,1,1,1,1,1,0,0,7.0,1,0,5,0,Middle Age,7,0,3,0
+Hantavirus,2012,41,Male,New Mexico,Rural/Farming,1,0,1,1,1,0,0,0,1,0,0,4.0,0,0,1,0,Middle Age,4,0,1,0
+Hantavirus,2009,46,Male,Other,Rural/Farming,1,1,1,1,1,1,0,1,0,1,1,7.4,1,1,2,1,Middle Age,6,2,2,1
+Hantavirus,1998,65,Female,Colorado,Rural/Farming,1,0,1,1,1,1,1,0,1,0,1,5.9,1,1,8,0,Elderly,6,1,2,1
+Hantavirus,2001,34,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,7.1,1,1,1,0,Young Adult,7,0,2,0
+Hantavirus,2010,25,Male,Colorado,Occupational,1,1,1,1,1,1,0,0,0,0,0,1.8,0,0,1,0,Young Adult,6,0,1,0
+Hantavirus,2005,17,Female,Colorado,Rural/Farming,1,1,1,1,1,0,1,1,1,0,0,5.7,1,1,1,1,Paediatric,6,0,2,0
+Hantavirus,2021,26,Male,New Mexico,Rural/Farming,1,1,1,1,0,1,1,1,0,0,0,5.0,0,0,2,0,Young Adult,6,0,2,0
+Hantavirus,2017,36,Female,Washington,Rural/Farming,1,1,1,0,1,1,1,0,1,1,0,5.9,1,1,3,1,Young Adult,6,1,2,1
+Hantavirus,2023,62,Male,Other,Camping/Hiking,1,1,1,1,1,1,0,0,1,1,0,7.5,1,1,14,1,Elderly,6,1,2,1
+Hantavirus,2004,29,Male,Colorado,Camping/Hiking,1,1,1,1,1,1,1,0,0,0,0,2.6,0,0,4,1,Young Adult,7,0,1,0
+Hantavirus,2022,40,Male,Montana,Rodent Infested Home,1,1,1,1,1,1,0,1,1,0,0,5.8,1,1,2,1,Young Adult,6,0,3,0
+Hantavirus,2007,36,Female,Washington,Camping/Hiking,1,1,1,1,1,1,1,1,0,0,0,4.2,0,0,1,0,Young Adult,7,0,2,0
+Hantavirus,2006,53,Female,Oregon,Camping/Hiking,1,1,1,1,1,1,1,0,1,0,0,5.0,0,0,1,0,Middle Age,7,0,2,1
+Hantavirus,1995,72,Male,Arizona,Rural/Farming,1,1,1,1,1,1,1,1,1,0,0,7.7,1,0,1,0,Elderly,7,0,3,1
+Hantavirus,1995,29,Male,Colorado,Occupational,1,1,1,1,1,0,1,0,0,1,0,1.0,0,0,1,0,Young Adult,6,1,0,1
+Hantavirus,2013,30,Male,Arizona,Rural/Farming,1,1,1,0,1,1,1,1,0,0,0,5.5,1,0,1,0,Young Adult,6,0,2,0
+Hantavirus,2008,51,Male,Washington,Rural/Farming,1,1,1,1,1,0,1,1,0,0,0,5.1,0,0,2,0,Middle Age,6,0,1,1
+Hantavirus,2003,46,Male,Oregon,Rodent Infested Home,1,1,0,1,0,1,0,1,1,0,0,8.4,1,0,2,1,Middle Age,4,0,3,0
+Hantavirus,2011,62,Female,Colorado,Camping/Hiking,1,0,1,0,1,1,1,1,1,0,0,9.1,1,1,5,0,Elderly,5,0,3,1
+Hantavirus,2003,45,Male,Arizona,Camping/Hiking,1,1,1,1,0,1,1,1,0,0,0,4.5,0,0,8,1,Middle Age,6,0,2,0
+Hantavirus,2010,31,Male,Other,Camping/Hiking,1,1,0,0,0,1,0,0,0,0,0,1.8,0,0,2,1,Young Adult,3,0,1,0
+Hantavirus,2006,45,Male,Oregon,Rodent Infested Home,1,1,1,1,1,1,1,0,0,0,0,2.1,0,0,6,0,Middle Age,7,0,1,0
+Hantavirus,2017,52,Male,Other,Rural/Farming,1,1,1,1,1,0,0,1,1,0,0,6.7,1,0,2,1,Middle Age,5,0,2,1
